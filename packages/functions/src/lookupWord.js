@@ -4,7 +4,7 @@ import dynamoDb from "@dictionary-with-history/core/dynamodb";
 
 export const main = handler(async (event) => {
   const data = JSON.parse(event.body);
-  const userId = "123";
+  const userId = event.requestContext.authorizer.iam.cognitoIdentity.identityId;
   const existingWordEntry = await getWordByUserID(userId, data.word);
   var params;
   if (!existingWordEntry){
