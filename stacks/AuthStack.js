@@ -10,6 +10,11 @@ export function AuthStack({ stack, app }) {
   // Create a Cognito User Pool and Identity Pool
   const auth = new Cognito(stack, "Auth", {
     login: ["username"],
+    cdk: {
+      userPool: {
+        selfSignUpEnabled: false,
+      }
+    }
   });
 
   auth.attachPermissionsForAuthUsers(stack, [
