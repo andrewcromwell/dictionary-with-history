@@ -8,6 +8,13 @@ export function FrontendStack({ stack, app }) {
 
   // Define our React app
   const site = new StaticSite(stack, "ReactSite", {
+    customDomain:
+      app.stage === "prod"
+        ? {
+          domainName: "alleswriting.net",
+          domainAlias: "www.alleswriting.net",
+        }
+        : undefined,
     path: "frontend",
     buildOutput: "build",
     buildCommand: "npm run build",
@@ -23,6 +30,6 @@ export function FrontendStack({ stack, app }) {
 
   // Show the url in the output
   stack.addOutputs({
-    SiteUrl: site.url || "http://localhost:3000",
+    SiteUrl: site.customDomainUrl || site.url || "http://localhost:3000",
   });
 }
