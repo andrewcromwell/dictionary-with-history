@@ -1,6 +1,7 @@
 import { Table } from "sst/node/table";
 import handler from "@dictionary-with-history/core/handler";
 import dynamoDb from "@dictionary-with-history/core/dynamodb";
+import { parseWiktionaryDefinition } from "@dictionary-with-history/core/src/parseWiktionaryDefinition";
 
 export const main = handler(async (event) => {
   const data = JSON.parse(event.body);
@@ -42,8 +43,14 @@ export const main = handler(async (event) => {
   }
 
   await dynamoDb.put(params);
+
+  const definition = await getWiktionaryDefinition(data.word);
+  const response = {
+    lookupInfo: params.Item,
+    definition: definition
+  };
   // return the created/updated item
-  return params.Item;
+  return response;
 });
 
 async function getWordByUserID(userId, word){
@@ -60,4 +67,52 @@ async function getWordByUserID(userId, word){
 
   // Return the retrieved item, even if it's null
   return result.Item;
+}
+
+const https = require('https')
+async function getWiktionaryDefinition(word){
+  const options = {
+    hostname: 'en.wiktionary.org',
+    port: 443,
+    path: '/w/index.php?action=raw&title=' + word,
+    method: 'GET'
+  };
+  const response = await makeRequest(options);
+
+  // Treat any error like a 404
+  if (response.statusCode > 400)
+    return {
+      error: "Not Found on Wiktionary"
+    };
+
+  // parse response
+  const parsedResponse = parseWiktionaryDefinition(response.responseBody);
+  return parsedResponse;
+}
+
+
+function makeRequest(options) {
+  return new Promise((resolve, reject) => {
+    const req = https.request(options, (res) => {
+      res.setEncoding("utf8");
+      let responseBody = "";
+
+      res.on("data", (chunk) => {
+        responseBody += chunk;
+      });
+
+      res.on("end", () => {
+        resolve({
+          statusCode: res.statusCode,
+          responseBody: responseBody
+        });
+      });
+    });
+
+    req.on("error", (err) => {
+      reject(err);
+    });
+
+    req.end();
+  });
 }

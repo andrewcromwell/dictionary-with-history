@@ -14,7 +14,7 @@ export default function Search() {
   });
   const [isLoading, setIsLoading] = useState(false);
   const [isSubmitted, setIsSubmitted] = useState(false);
-  const [searchHistory, setSearchHistory] = useState(null);
+  const [searchResponse, setSearchResponse] = useState(null);
 
   function validateForm() {
     return fields.word.length > 0 && fields.media.length > 0;
@@ -26,9 +26,9 @@ export default function Search() {
     setIsLoading(true);
 
     try {
-      const searchHistory = await postSearch(fields.word, fields.media);
+      const searchResponse = await postSearch(fields.word, fields.media);
       setIsSubmitted(true);
-      setSearchHistory(searchHistory);
+      setSearchResponse(searchResponse);
     } catch (e) {
       onError(e);
     }
@@ -85,9 +85,36 @@ export default function Search() {
       );
   }
 
+  function showDefinition(definition) {
+    if (definition.error){
+      return (
+        <>
+          <span className="text-muted">{fields.word} not found on Wiktionary</span>
+        </>
+      );
+    }
+    return searchResponse.definition.definitions.map(({ partOfSpeech, meanings }) => (
+      <>
+          <span className="fw-bold">{partOfSpeech.trim()}</span>
+          <br />
+          <ol>
+          {meanings.map(meaning => (
+            <li>
+            <span className="text-muted">
+            {meaning.trim()}
+            </span>
+            </li>
+          ))}
+          </ol>
+      </>
+  ));
+  }
   function renderSearchResponse() {
+    const definitionDisplay = showDefinition(searchResponse.definition);
+    const searchHistory = searchResponse.lookupInfo;
     return (
         <div className="SearchHistory">
+            {definitionDisplay}
             <ListGroup.Item action className="py-3 text-nowrap text-truncate">
                 <a href={"https://en.wiktionary.org/wiki/" + fields.word + "#German"} className="ms-2 fw-bold">Wiktionary</a>
             </ListGroup.Item>
