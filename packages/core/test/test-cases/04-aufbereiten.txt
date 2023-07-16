@@ -1,0 +1,23 @@
+==German==
+
+===Pronunciation===
+* {{audio|de|De-aufbereiten.ogg|Audio}}
+
+===Verb===
+{{de-verb|auf.bereiten}}
+
+# to [[process]]
+# to [[condition]]
+
+====Conjugation====
+{{de-conj|auf.bereiten}}
+
+====Derived terms====
+* {{l|de|Aufbereiten}}
+* {{l|de|Aufbereitung}}
+* {{l|de|aufbereitend}}
+* {{l|de|aufbereitet}}
+
+===Further reading===
+* {{R:Duden}}
+* {{R:DWDS}}

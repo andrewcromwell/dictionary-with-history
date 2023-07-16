@@ -1,0 +1,48 @@
+==German==
+
+===Pronunciation===
+* {{IPA|de|/fərˈɡeːbən/|/fɛr-/|[fɐˈɡeː.bm̩]|[fɛɐ̯-]|[-bən]}}
+* {{audio|de|De-vergeben.ogg|Audio}}
+
+===Etymology 1===
+From {{inh|de|gmh|vergeben}}, from {{inh|de|goh|fargeban}}, from {{inh|de|gem-pro|*fragebaną}}. Analyzable as {{prefix|de|ver|geben}}. Cognate with {{cog|nl|vergeven}}, {{cog|en|forgive}}, {{cog|is|fyrirgefa}}.
+
+====Verb====
+{{de-verb|vergeben<vergibt#vergab,vergeben,vergäbe>}}
+
+# {{lb|de|transitive|or|intransitive|+ dative}} to [[forgive]]
+#: {{syn|de|verzeihen}}
+#: {{uxi|de|Kannst du mir '''vergeben'''?|Can you '''forgive''' me?}}
+#: {{uxi|de|'''Vergib''' mir meine Sünden!|'''Forgive''' me my sins.}}
+# {{lb|de|transitive}} to [[assign]]; to [[allocate]]; to [[give]] (a job); to give or [[set]] (a task); to [[award]] (a contract), to [[give away]] {{+preo|de|an|accusative}}
+#: {{ux|de|Wir haben den Auftrag an ein Drittunternehmen '''vergeben'''.|We have '''awarded''' the contract to an external company.}}
+
+=====Usage notes=====
+* ''Vergeben'' implies a greater degree of moral guilt than {{m|de|verzeihen}}. It is used in the context of sin or crime, or otherwise of severe misbehaviour, such as acts of violence, insult, humiliation, deceit, and the like.
+* The noun corresponding to the sense “to forgive” is {{m|de|Vergebung}}, while that corresponding to the sense “to assign” is {{m|de|Vergabe}}.
+
+=====Conjugation=====
+{{de-conj|vergeben<vergibt#vergab,vergeben,vergäbe>}}
+
+=====Derived terms=====
+* {{l|de|Vergeben}}
+* {{l|de|Vergebung}}
+
+===Etymology 2===
+
+====Participle====
+{{head|de|past participle}}
+
+# {{past participle of|de|vergeben}}
+
+====Adjective====
+{{de-adj}}
+
+# [[taken]]; not [[free]]
+# {{lb|de|informal}} not [[single]]: [[married]] or in a [[relationship]]
+
+===Further reading===
+* {{R:DWDS}}
+* {{R:UniLeipzig}}
+* {{R:Duden}}
+* {{R:OpenThesaurus}}

@@ -1,0 +1,953 @@
+{{also|Ich|ICH|ích|ịch|-ich|-ich-}}
+==English==
+
+===Etymology 1===
+From {{inh|en|enm|ich}}, from {{inh|en|ang|iċ}}, {{m|ang|iċċ|t=I|pos=pronoun}}, from {{inh|en|gmw-pro|*ik}}, from {{inh|en|gem-pro|*ik}}, {{m|gem-pro|*ek|t=I|pos=pronoun}}, from {{inh|en|ine-pro|*éǵh₂|t=I}}. See also {{m|en|ch-}}, {{m|en|I}}.
+
+====Alternative forms====
+* {{alt|en|Iche|che|'ch-|ch-}}
+
+====Pronunciation====
+* {{IPA|en|/iːt͡ʃ/|/ɪt͡ʃ/}}
+* {{rhymes|en|iːtʃ|ɪtʃ|s=1}}
+* {{homophones|en|each|itch}}
+
+====Pronoun====
+{{head|en|pronoun}}
+
+# {{lb|en|personal|obsolete}} [[I]].
+#* {{quote-book|en|year=1529|author=John Skelton|title=Elynour Rummyng|passage="Behold," she sayd, "and se How bright I am of ble! '''Ich''' am not cast away, That can my husband say, [...]"}}
+#* {{quote-book|en|year=1561|author=John Awdelay|title=The fraternitye of vacabondes|passage=My maysters, '''ich''' am an old man, and halfe blinde, {{...}}}}
+#* {{quote-book|en|year=1568|author=Thomas Howell|title=Arbor of Amitie|passage=With cap and knee, '''ich''' will serve thee, what should '''ich''' more declare.}}
+#* {{quote-book|en|year=1578|author=George Whetstone|title=The right, excellent and famous Historye of Promos and Cassandra|passage=Kissyng and lying '''ich''' see is all one:<br/>And '''ch'''ave no mony, '''ch'''ul tell true therfore.}}
+#* {{quote-book|en|year=1645|author=Thomas Davies|title=The Somersetshire Man's Complaint|passage=Dost thinke ''''ch'''ill labor to be poore, No no, '''ich''' haue a-doe..'''Ich''' will a plundering too.}}
+#* {{RQ:New World of English Words|edition=6th|column=2|page=355|passage='''Ich''', a Word us'd for ''I'' in the Weſtern Parts of ''England''.|brackets=on}}
+
+=====Usage notes=====
+''Ich'' was the form of ''I'' found in the dialects of the West Country, West Midlands, and Kent. It began to disappear from written English with the onset of the {{w|Chancery Standard}} in the 15th century, yet continued to see limited use until the middle of the 19th century.
+
+The Northern dialectal form, ''ik'' (which derives from the same Old English root), likewise disappeared from writing with the onset of the Chancery Standard in the 15th century.
+
+=====Derived terms=====
+* {{l|en|nich}}
+* {{l|en|chill|t=I will}}
+* {{l|en|cham|t=I am}}
+
+====See also====
+* {{l|en|chinny reckon}}
+
+===Etymology 2===
+{{clipping|en|ichthyophthiriasis}}.
+
+====Alternative forms====
+* {{l|en|ick}}
+
+====Pronunciation====
+* {{IPA|en|/ɪk/}}
+
+====Noun====
+{{en-noun|-}}
+
+# {{lb|en|ichthyology}} [[ichthyophthiriasis|Ichthyophthiriasis]], a parasitic infection of freshwater fish caused by the ciliate {{taxlink|Ichthyophthirius|genus|ver=210124}}.
+#* {{quote-book|en|1996|Edward J. Noga|Fish Disease: Diagnosis and Treatment|publisher=Iowa State University Press (2000)| pageurl=http://books.google.com/books?id=SAdDtT7YRRoC&pg=PA95&dq=ich| isbn=0-8138-2558-X| page=95| passage='''Ich''' is one of the most common diseases of freshwater fish.}}
+
+=====Derived terms=====
+* {{l|en|marine ich}}
+
+====See also====
+* [[ich-laut]] {{i|probably etymologically unrelated}}
+
+===Anagrams===
+* {{anagrams|en|a=chi|CHI|CIH|Ch'i|Chi|Chi.|HCI|IHC|chi|hic}}
+
+[[Category:English three-letter words]]
+[[Category:en:Alveolates]]
+
+==Alemannic German==
+
+===Alternative forms===
+* {{alter|gsw|i}}
+* {{alter|gsw|ig||Bern}}
+
+===Etymology===
+From {{inh|gsw|gmh|ich}}, from {{inh|gsw|goh|ih}}, from {{inh|gsw|gmw-pro|*ik}}, from {{inh|gsw|gem-pro|*ek}}, {{m|gem-pro|*ik}}. Cognate with {{cog|de|ich}}, {{cog|nl|ik}}, {{cog|en|I}}, {{m|en|ich}}, {{cog|is|ég}}.
+
+===Pronunciation===
+* {{a|Lower Alemannic (Northern Alsace)}} {{IPA|gsw|/iʃ/|/eʃ/|/iː/}} {{q|''i'' is the unstressed pronoun, used after the verb, as in ''hiit hàw '''i''' dìs g'màcht'' (today I have done this), but it is always ''ìch'' before the verb, never ''i''}}
+* {{a|Higher Alemannic (Southern Alsace)}} {{IPA|gsw|/ix/|/ex/|/iː/}} {{q|unstressed}}
+* {{a|Zurich}} {{IPA|gsw|/ix/|/i/}} {{q|unstressed}}, {{IPA|gsw|[ɪːx]}} {{q|stressed}}
+
+===Pronoun===
+{{head|gsw|pronoun}}
+
+# [[I]]
+
+====Declension====
+{{gsw-decl-personal pronouns}}
+
+==Central Franconian==
+
+===Alternative forms===
+* {{l|gmw-cfr|eich}} {{qualifier|Moselle Franconian, stressed}}
+* {{l|gmw-cfr|ech}} {{qualifier|some dialects of Ripuarian; Moselle Franconian, unstressed, enclitic}}
+
+===Etymology===
+From {{inh|gmw-cfr|gmh|ich}}, from {{inh|gmw-cfr|goh|ih}}, from {{inh|gmw-cfr|gmw-pro|*ik}}, from {{inh|gmw-cfr|gem-pro|[[*ek]], [[*ik]]}}, from {{inh|gmw-cfr|ine-pro|*éǵh₂}}. 
+
+The expected form is ''ech''; the variant ''ich'' is from a form {{m|goh|*īh}} with expressive lengthening (compare the corresponding diphthong in Moselle Franconian).
+
+===Pronunciation===
+* {{IPA|gmw-cfr|/iɕ/|[iɕ]}}
+** {{IPA|gmw-cfr|[eɕ]}} → {{IPAchar|[əɕ]}} → {{IPAchar|[ɕ]}} {{a|unstressed; enclitic before a consonant}}
+** {{IPA|gmw-cfr|[ij]}} {{a|enclitic before a vowel}}
+* The enclitic pronunciation is used <u>after</u> verbs and conjunctions (unless the pronoun is stressed).
+
+===Pronoun===
+{{head|gmw-cfr|pronoun}}
+
+# {{lb|gmw-cfr|some dialects of|_|Ripuarian|including|_|Kölsch}} [[I]]; {{non-gloss definition|nominative of the first-person singular personal pronoun}}
+#: ''Dat senn '''ich''' op däm Fotto.''
+#:: That’s '''I''' (or: '''me''') in this photo.
+
+====Declension====
+Ripuarian (''regional forms'': Aachen [A], Cologne [C]; ''reduced or unstressed forms'': red.):
+{| class="prettytable"
+! rowspan="2" |  !! rowspan="2" | 1st Person Singular !! rowspan="2" | 2nd Person Singular !! colspan="3" | 3rd Person Singular
+|-
+! Masculine !! Feminine !! Neuter
+|-
+! Nominative
+| '''{{l|gmw-cfr|ich}}''' || '''{{l|gmw-cfr|du}}''' <br>{{l|gmw-cfr|do}}; {{l|gmw-cfr|Do}} [C] <br> {{l|gmw-cfr|de}} (''red.'') || '''{{l|gmw-cfr|hä}}''' <br> {{l|gmw-cfr|e}} (''red.'') || '''{{l|gmw-cfr|sei}}''', {{l|gmw-cfr|sie}} <br> {{l|gmw-cfr|se}} (''red.'') || '''{{l|gmw-cfr|it}}''' <br> {{l|gmw-cfr|het}} [A] <br> {{l|gmw-cfr|et}}, {{l|gmw-cfr|'t}}, {{l|gmw-cfr|-'t}} (''red.'')
+|-
+! Dative
+| '''{{l|gmw-cfr|mir}}''' <br> {{l|gmw-cfr|meer}} [C] <br> {{l|gmw-cfr|mer}} (''red.'') <br> [A] = ''acc.'' || '''{{l|gmw-cfr|dir}}''' <br> {{l|gmw-cfr|deer}}; {{l|gmw-cfr|Deer}} [C] <br> {{l|gmw-cfr|der}} (''red.'') <br /> [A] = ''acc.'' || '''{{l|gmw-cfr|im}}''' <br> {{l|gmw-cfr|höm}} [A] <br> {{l|gmw-cfr|em}} (''red.'') || '''{{l|gmw-cfr|ihr}}''' <br> {{l|gmw-cfr|ehr}} [C] <br> {{l|gmw-cfr|hör}} [A] (or = ''nom.'') <br> {{l|gmw-cfr|er}} (''red.'') || '''{{l|gmw-cfr|im}}''' <br> {{l|gmw-cfr|höm}} [A] (or = ''nom.'') <br> {{l|gmw-cfr|em}} (''red.'')
+|-
+! Accusative
+| '''{{l|gmw-cfr|mich}}''' || '''{{l|gmw-cfr|dich}}; {{l|gmw-cfr|Dich}}''' || '''{{l|gmw-cfr|in}}''' <br> {{l|gmw-cfr|en}} (''red.'') <br> [A] = ''dat.'' || = ''nom.'' <br> [A] = ''nom.'' or ''dat.'' || = ''nom.''
+|-
+!  !! 1st Person Plural !! 2rd  Person Plural !! colspan="3" | 3rd Person Plural
+|-
+! Nominative
+| '''{{l|gmw-cfr|mir}}''' <br> {{l|gmw-cfr|meer}} [C] <br> {{l|gmw-cfr|mer}} (''red.'') <br> {{l|gmw-cfr|vir}} [A], {{l|gmw-cfr|ver}} (''red.'') || '''{{l|gmw-cfr|ühr}}''' <br> {{l|gmw-cfr|ehr}}; {{l|gmw-cfr|Ehr}} [C] <br> {{l|gmw-cfr|er}} (''red.'') || colspan="3" | '''{{l|gmw-cfr|sei}}''', {{l|gmw-cfr|sie}} <br> {{l|gmw-cfr|se}} (''red.'')
+|-
+! Dative
+| '''{{l|gmw-cfr|us}}''', {{l|gmw-cfr|uns}} <br> {{l|gmw-cfr|os}}, {{l|gmw-cfr|ons}} [A] || '''{{l|gmw-cfr|üch}}; {{l|gmw-cfr|Üch}}''' || colspan="3" |  '''{{l|gmw-cfr|inne}}''' <br> {{l|gmw-cfr|hön}}, {{l|gmw-cfr|hönne}} [A] (or = ''nom.'') <br> {{l|gmw-cfr|en}} (''red.'')
+|-
+! Accusative
+| = ''dat.'' || = ''dat.'' || colspan="3" | = ''nom.''
+|}
+In other dialects:
+* {{l|gmw-cfr|ät||it}} {{q|Düren}}
+
+==Cimbrian==
+
+===Alternative forms===
+* {{alter|cim|i||Luserna}}
+
+===Etymology===
+From {{inh|cim|gmh|ich}}, from {{inh|cim|goh|ih}}, from {{inh|cim|gmw-pro|*ik}}, from {{inh|cim|gem-pro|*ek}}. Cognate with {{cog|de|ich}}, {{cog|en|I}}.
+
+===Pronoun===
+{{head|cim|pronoun|cat2=personal pronouns}} <!--/ix/-->
+
+# {{lb|cim|7}} [[I]]
+
+====Inflection====
+{{cim-decl-personal pronouns}}
+
+===References===
+* {{R:Martalar1974}}
+* 2013, Umberto Patuzzi (ed.), ''Sette Comuni / Siben Komoinen: Le nostre parole – D’ögnar börtar – Unsere Wörter'', Comitato unitario delle linguistiche storiche germaniche in Italia / Einheitskomitee der historischen deutschen Sprachinseln in Italien
+* 2013, Umberto Patuzzi (ed.), ''Luserna / Lusérn: Le nostre parole – Ünsarne börtar – Unsere Wörter'', Comitato unitario delle linguistiche storiche germaniche in Italia / Einheitskomitee der historischen deutschen Sprachinseln in Italien
+
+==Crimean Gothic==
+
+===Etymology===
+From {{inh|gme-cgo|gem-pro|*ik}}, from {{inh|gme-cgo|ine-pro|*éǵh₂}}.
+
+===Pronoun===
+{{head|gme-cgo|pronoun}}
+
+# [[I]]
+#*{{RQ:Ogier Ghiselin de Busbecq}}
+#*: {{l|gme-cgo||'''Ich''' malthata.}} {{l|la||Ego dico.}}
+
+==East Central German==
+
+===Etymology===
+Cognate to {{cog|de|ich}}.
+
+===Pronoun===
+{{head|gmw-ecg|pronoun}}
+
+# {{lb|gmw-ecg|Silesian|also|_|Breslauisch}} [[I]]
+
+====Declension====
+<!-- (Breslauisch by Karl von Holtei; Robert Rößler) -->
+{| class="prettytable"
+! rowspan="2" |  !! rowspan="2" | 1st Person Singular !! rowspan="2" | 2nd Person Singular !! colspan="3" | 3rd Person Singular
+|-
+! Masculine !! Feminine !! Neuter
+|-
+! Nominative
+| {{l|gmw-ecg|ihch}}; {{l|gmw-ecg|ich}} || {{l|gmw-ecg|du}}; {{l|gmw-ecg|de}}<br /> {{l|gmw-ecg|Du}}; {{l|gmw-ecg|De}} || {{l|gmw-ecg|er}}; {{l|gmw-ecg|a'}}<br /> {{l|gmw-ecg|är}}; {{l|gmw-ecg|a}} || {{l|gmw-ecg|sie}}, {{l|gmw-ecg|se}}, {{l|gmw-ecg|-'sche}} {{q|after r}}, {{l|gmw-ecg|s'}}, {{l|gmw-ecg|s'-}} || {{l|gmw-ecg|es}}; {{l|gmw-ecg|'s}}, {{l|gmw-ecg|-'s}}, {{l|gmw-ecg|-s}} {{q|less common}}, {{l|gmw-ecg|-'sch}} {{q|after r}}, {{l|gmw-ecg|-sch}} {{q|after r, less common}}
+|-
+! Dative
+| {{l|gmw-ecg|mir}}; {{l|gmw-ecg|mer}} || {{l|gmw-ecg|dir}}; {{l|gmw-ecg|der}}<br /> {{l|gmw-ecg|Dir}} {{q|especially after prepositions and at the beginning of a sentence/clause}}; {{l|gmw-ecg|Der}} || {{l|gmw-ecg|ihm}}; {{l|gmw-ecg|i'm}}, {{l|gmw-ecg|im}} || {{l|gmw-ecg|ihr}}; {{l|gmw-ecg|i'r}}, {{l|gmw-ecg|ir}} || {{l|gmw-ecg|}}
+|-
+! Accusative
+| {{l|gmw-ecg|mihch}}; {{l|gmw-ecg|mich}} || {{l|gmw-ecg|dihch}}; {{l|gmw-ecg|dich}}<br />{{l|gmw-ecg|Dihch}}; {{l|gmw-ecg|Dich}} || {{l|gmw-ecg|ihn}}; {{l|gmw-ecg|i'n}} || {{l|gmw-ecg|sie}}, {{l|gmw-ecg|se}}, {{l|gmw-ecg|-'sche}} {{q|after r}} || {{l|gmw-ecg|es}}; {{l|gmw-ecg|'s}}, {{l|gmw-ecg|-'s}}, {{l|gmw-ecg|-s}} {{q|less common}}, {{l|gmw-ecg|-'sch}} {{q|after r}}, {{l|gmw-ecg|-sch}} {{q|after r, less common}}
+|-
+!  !! 1st Person Plural !! 2rd  Person Plural !! colspan="3" | 3rd Person Plural
+|-
+! Nominative
+| {{l|gmw-ecg|bir}} ({{l|gmw-ecg|bier}}); {{l|gmw-ecg|ber}} || {{l|gmw-ecg|ihr}}; {{l|gmw-ecg|i'r}} || colspan="3" | {{l|gmw-ecg|sie}}, {{l|gmw-ecg|se}}, {{l|gmw-ecg|s'}}, {{l|gmw-ecg|s'-}}
+|-
+! Dative
+| {{l|gmw-ecg|uns}}, {{l|gmw-ecg|üns}}<br /> {{l|gmw-ecg|üns}} || {{l|gmw-ecg|euch}} || colspan="3" | {{l|gmw-ecg|ihn'n}}; {{l|gmw-ecg|i'n'n}}, {{l|gmw-ecg|i'n}}
+|-
+! Accusative
+| {{l|gmw-ecg|uns}}, {{l|gmw-ecg|üns}}<br /> {{l|gmw-ecg|üns}} || {{l|gmw-ecg|euch}} || colspan="3" | {{l|gmw-ecg|se}}
+|}
+* ''sie/se'' and ''es'' can be contracted into {{l|gmw-ecg|s'e's}} (= SHG: sie es)
+
+====See also====
+other personal, possessive and reflexive pronouns:
+* {{l|gmw-ecg|mei}} {{q|1st ps. sg. possessive pronoun}}
+* {{l|gmw-ecg|dei}}; {{l|gmw-ecg|Dei}} {{q|2nd ps. sg. possessive pronoun}}
+* {{l|gmw-ecg|ihr}} {{q|3rd ps. sg. fem. possessive pronoun}}
+* {{l|gmw-ecg|unser}}, {{l|gmw-ecg|ünser}} / {{l|gmw-ecg|ünser}} {{q|1st ps. pl. possessive pronoun}}
+* {{l|gmw-ecg|Ihr}}; {{l|gmw-ecg|Euch}} {{q|grammatically: 2nd ps. pl.}}
+* {{l|gmw-ecg|Sie}}; {{l|gmw-ecg|Ihn'n}} {{q|grammatically: 3rd ps. pl.}}
+* {{l|gmw-ecg|sihch}}, {{l|gmw-ecg|sich}} / {{l|gmw-ecg|sich}} {{q|reflexive pronoun}}
+
+===Pronoun===
+{{head|gmw-ecg|pronoun}}
+
+# {{lb|gmw-ecg|Silesian|also|_|Gebirgsschlesisch}} [[I]]
+
+====Declension====
+Gebirgsschlesisch:
+{| class="prettytable"
+! rowspan="2" |  !! rowspan="2" | 1st Person Singular !! rowspan="2" | 2nd Person Singular !! colspan="3" | 3rd Person Singular
+|-
+! Masculine !! Feminine !! Neuter
+|-
+! Nominative
+| {{l|gmw-ecg|iech}}; {{l|gmw-ecg|ich}} || {{l|gmw-ecg|du}}; {{l|gmw-ecg|de}}<br /> {{l|gmw-ecg|Du}};  ||  {{l|gmw-ecg|a}} || {{l|gmw-ecg|sie}}, {{l|gmw-ecg|se}} || {{l|gmw-ecg|es}}; {{l|gmw-ecg|-'s}}, {{l|gmw-ecg|-s}} {{q|merged with a preceding ''s'' into ''ß'' as in ''iß'' (SHG: ist es) from ''is'', ''biß'' (SHG: bis es) from ''bis''}}, {{l|gmw-ecg|-sch}} {{q|after r}}
+|-
+! Dative
+| {{l|gmw-ecg|mir}}; {{l|gmw-ecg|merr}}, {{l|gmw-ecg|mer}} || {{l|gmw-ecg|dir}}; {{l|gmw-ecg|derr}}, {{l|gmw-ecg|der}}<br /> {{l|gmw-ecg|Dir}};  || {{l|gmw-ecg|ihm}}  || {{l|gmw-ecg|ihr}}  ||
+|-
+! Accusative
+| {{l|gmw-ecg|miech}}; {{l|gmw-ecg|mich}} || {{l|gmw-ecg|diech}}; {{l|gmw-ecg|dich}}<br />{{l|gmw-ecg|Diech}};  || {{l|gmw-ecg|ihn}};  || {{l|gmw-ecg|se}} || {{l|gmw-ecg|es}}; {{l|gmw-ecg|-'s}}, {{l|gmw-ecg|-s}} {{q|merged with a preceding ''s'' into ''ß'' as in ''iß'' (SHG: ist es) from ''is'', ''biß'' (SHG: bis es) from ''bis''}}, {{l|gmw-ecg|-sch}} {{q|after r}}
+|-
+!  !! 1st Person Plural !! 2rd  Person Plural !! colspan="3" | 3rd Person Plural
+|-
+! Nominative
+| {{l|gmw-ecg|mirr}}, {{l|gmw-ecg|mir}}; {{l|gmw-ecg|merr}}, {{l|gmw-ecg|mer}} || {{l|gmw-ecg|ihr}}  || colspan="3" | {{l|gmw-ecg|sie}}, {{l|gmw-ecg|se}}
+|-
+! Dative
+| {{l|gmw-ecg|ins}} || {{l|gmw-ecg|euch}} || colspan="3" | {{l|gmw-ecg|a}}
+|-
+! Accusative
+| {{l|gmw-ecg|ins}} || {{l|gmw-ecg|euch}} || colspan="3" | {{l|gmw-ecg|se}}
+|}
+Additionally there are:
+* {{l|gmw-ecg|sa}} (= SHG: sie ihn)
+* {{l|gmw-ecg|sa}} (= SHG: es ihnen)
+* {{l|gmw-ecg|marn}} (= SHG: wir ihn)
+* {{l|gmw-ecg|mida}} (= SHG: mit ihnen; from {{l|gmw-ecg|mit||with}})
+
+Also<!-- (Max Heinzel) -->:
+{| class="prettytable"
+! rowspan="2" |  !! rowspan="2" | 1st Person Singular !! rowspan="2" | 2nd Person Singular !! colspan="3" | 3rd Person Singular
+|-
+! Masculine !! Feminine !! Neuter
+|-
+! Nominative
+| {{l|gmw-ecg|iech}}; {{l|gmw-ecg|ich}} || {{l|gmw-ecg|du}}; {{l|gmw-ecg|de}}<br /> {{l|gmw-ecg|Du}}; {{l|gmw-ecg|De}} || {{l|gmw-ecg|är}}; {{l|gmw-ecg|a}} || {{l|gmw-ecg|sie}}, {{l|gmw-ecg|se}} || {{l|gmw-ecg|es}}; {{l|gmw-ecg|'s}}, {{l|gmw-ecg|-'s}}, {{l|gmw-ecg|-'sch}} {{q|after r}}
+|-
+! Dative
+| {{l|gmw-ecg|mir}}; {{l|gmw-ecg|mer}} || {{l|gmw-ecg|dir}}; {{l|gmw-ecg|der}}<br /> {{l|gmw-ecg|Dir}}; {{l|gmw-ecg|Der}} || {{l|gmw-ecg|ihm}}; {{l|gmw-ecg|i'm}} || {{l|gmw-ecg|ihr}}; {{l|gmw-ecg|i'r}} ||
+|-
+! Accusative
+| {{l|gmw-ecg|miech}}; {{l|gmw-ecg|mich}} || {{l|gmw-ecg|diech}}; <br />{{l|gmw-ecg|Diech}};  ||  {{l|gmw-ecg|i'n}} || {{l|gmw-ecg|se}} || {{l|gmw-ecg|es}}; {{l|gmw-ecg|'s}}, {{l|gmw-ecg|-'s}}, {{l|gmw-ecg|-'sch}} {{q|after r}}
+|-
+!  !! 1st Person Plural !! 2rd  Person Plural !! colspan="3" | 3rd Person Plural
+|-
+! Nominative
+| {{l|gmw-ecg|bier}}; {{l|gmw-ecg|ber}} ||  || colspan="3" | {{l|gmw-ecg|sie}}, {{l|gmw-ecg|se}}
+|-
+! Dative
+| {{l|gmw-ecg|üns}} ({{l|gmw-ecg|uns}}) ||  ({{l|gmw-ecg|euch}}) || colspan="3" |
+|-
+! Accusative
+| {{l|gmw-ecg|üns}} ({{l|gmw-ecg|uns}}) ||  ({{l|gmw-ecg|euch}}) || colspan="3" | {{l|gmw-ecg|se}}
+|}
+Additionally there are:
+* {{l|gmw-ecg|Ihr}}, {{l|gmw-ecg|I'r}}; {{l|gmw-ecg|Eich}} ({{l|gmw-ecg|Euch}}) {{q|grammatically: 2nd ps. pl.; semantically: 2nd ps. sg. or pl.}}
+* {{l|gmw-ecg|Sie}}, {{l|gmw-ecg|Se}}; {{l|gmw-ecg|I'n}} {{q|grammatically: 3rd ps. pl.; semantically: 2nd ps. sg.}}
+Notes:
+* The forms {{m|gmw-ecg|uns}}, {{m|gmw-ecg|euch}}, {{m|gmw-ecg|Euch}} are rare, and could arguably be mistakes or misprints influenced by SHG {{m|de|uns}}, {{m|de|euch}}.
+
+====See also====
+possessive and reflexive pronouns - Gebirgsschlesisch:
+* {{l|gmw-ecg|mei}} {{q|1st ps. sg. possessive pronoun}}
+* {{l|gmw-ecg|dei}} {{q|2nd ps. sg. possessive pronoun}}
+* {{l|gmw-ecg|insa}} {{q|1st ps. pl. possessive pronoun}}
+* {{l|gmw-ecg|siech}} {{q|reflexive pronoun}}
+
+possessive and reflexive pronouns - also:
+* {{l|gmw-ecg|ünser}} {{q|1st ps. pl.}}
+* {{l|gmw-ecg|sich}} {{q|reflexive pronoun}}
+
+===Pronoun===
+{{head|gmw-ecg|pronoun}}
+
+# {{lb|gmw-ecg|Silesian|Gebirgsschlesisch}} [[I]]
+
+====Declension====
+* Nominative: {{l|gmw-ecg|ich}}
+* Dative: {{l|gmw-ecg|mir}}; {{l|gmw-ecg|mer}}
+* Accusative: {{l|gmw-ecg|mich}}
+
+====See also====
+other personal and possessive pronouns:
+* {{l|gmw-ecg|mei}} {{q|1st ps. sg. possessive pronoun}}
+* {{l|gmw-ecg|du}}, {{l|gmw-ecg|de}}; {{l|gmw-ecg|dir}}, {{l|gmw-ecg|der}}; {{l|gmw-ecg|dich}}; {{l|gmw-ecg|dei}} {{q|2nd ps. sg.}}
+* {{l|gmw-ecg|a}}; {{l|gmw-ecg|ihm}}; {{l|gmw-ecg|ihn}} {{q|3rd ps. sg. m.}}
+* {{l|gmw-ecg|-'s}}, {{l|gmw-ecg|-s}}, {{l|gmw-ecg|-'sch}} {{q|after ''r'' as in ''mer'sch''}} {{q|3rd ps. sg. n.}}
+* {{l|gmw-ecg|sei}} {{q|3rd ps. sg. m. & n. possessive pronoun}}
+* {{l|gmw-ecg|se}} {{q|3rd ps. sg. f.}}
+* {{l|gmw-ecg|ihr}} {{q|3rd ps. sg. f. possessive pronoun}}
+* {{l|gmw-ecg|mer}}; {{l|gmw-ecg|ins}}; {{l|gmw-ecg|ins}}; {{l|gmw-ecg|inser}} {{q|1st ps. pl.}}
+
+===Pronoun===
+{{head|gmw-ecg|pronoun}}
+
+# {{lb|gmw-ecg|Silesian}} [[I]]
+
+====Declension====
+* Nominative: {{l|gmw-ecg|ich}}
+* Dative: {{l|gmw-ecg|mir}}; {{l|gmw-ecg|mer}}
+* Accusative: {{l|gmw-ecg|miech}}; {{l|gmw-ecg|mich}}
+
+====See also====
+* {{l|gmw-ecg|Du}}, {{l|gmw-ecg|De}}; {{l|gmw-ecg|Dir}}, {{l|gmw-ecg|Der}}; {{l|gmw-ecg|Diech}}, {{l|gmw-ecg|Dich}} {{q|2nd ps. sg.}}
+
+===Pronoun===
+{{head|gmw-ecg|pronoun}}
+
+# {{lb|gmw-ecg|Obererzgebirge|Salzungen|Ruhla}} [[I]]
+
+====Declension====
+Obererzgebirge:
+* Nominative: {{l|gmw-ecg|ich}}
+* Dative: {{l|gmw-ecg|mir}}
+* Accusative: {{l|gmw-ecg|mich}}
+
+Salzungen:
+* Nominative: {{l|gmw-ecg|ich}}
+* Dative: {{l|gmw-ecg|me}}
+* Accusative: {{l|gmw-ecg|mich}}
+
+Ruhla:
+{| class="prettytable"
+! rowspan="2" |  !! rowspan="2" | 1st Person Singular !! rowspan="2" | 2nd Person Singular !! colspan="3" | 3rd Person Singular
+|-
+! Masculine !! Feminine !! Neuter
+|-
+! Nominative
+| {{l|gmw-ecg|ich}} || {{l|gmw-ecg|dåu}}, {{l|gmw-ecg|de}} || {{l|gmw-ecg|hä̂}}, {{l|gmw-ecg|ä}}, {{l|gmw-ecg|e}} || {{l|gmw-ecg|sü̂}}, {{l|gmw-ecg|se}} || {{l|gmw-ecg|es}}
+|-
+! Genitive
+|  ||  ||  ||  || {{l|gmw-ecg|s'n}}
+|-
+! Dative
+| {{l|gmw-ecg|mäi}}, {{l|gmw-ecg|me}} || {{l|gmw-ecg|däi}}, {{l|gmw-ecg|de}} || {{l|gmw-ecg|ü̂n}}, {{l|gmw-ecg|ün}}, {{l|gmw-ecg|en}} || {{l|gmw-ecg|ü̂r}}, {{l|gmw-ecg|er}} || {{l|gmw-ecg|ü̂n}}, {{l|gmw-ecg|ün}}, {{l|gmw-ecg|en}}
+|-
+! Accusative
+| {{l|gmw-ecg|mich}} || {{l|gmw-ecg|dich}} || {{l|gmw-ecg|ü̂n}}, {{l|gmw-ecg|ün}}, {{l|gmw-ecg|en}} || {{l|gmw-ecg|sü̂}}, {{l|gmw-ecg|se}} || {{l|gmw-ecg|es}}
+|-
+!  !! 1st Person Plural !! 2rd  Person Plural !! colspan="3" | 3rd Person Plural
+|-
+! Nominative
+| {{l|gmw-ecg|mäi}}, {{l|gmw-ecg|me}} || {{l|gmw-ecg|å̈ü}} || colspan="3" | {{l|gmw-ecg|sü̂}}, {{l|gmw-ecg|se}}
+|-
+! Genitive
+| {{l|gmw-ecg|onser}} || {{l|gmw-ecg|å̈ürer}} || colspan="3" | {{l|gmw-ecg|ürner}}, {{l|gmw-ecg|örner}}, {{l|gmw-ecg|er}}
+|-
+! Dative
+| {{l|gmw-ecg|ons}} || {{l|gmw-ecg|ü̂ch}}, {{l|gmw-ecg|üch}} || colspan="3" | {{l|gmw-ecg|ün}}, {{l|gmw-ecg|en}}
+|-
+! Accusative
+| {{l|gmw-ecg|ons}} || {{l|gmw-ecg|ü̂ch}}, {{l|gmw-ecg|üch}} || colspan="3" | {{l|gmw-ecg|sü̂}}, {{l|gmw-ecg|se}}
+|}
+
+====Alternative forms====
+* {{l|gmw-ecg|ig}} ({{l|gmw-ecg|mer}}, {{l|gmw-ecg|mig}}) {{q|Obererzgebirge}}
+
+====References====
+* ''Die Ruhlaer Mundart dargestellt von Karl Regel. &nbsp; Weimar, Hermann Boehlau. 1868''
+
+===Pronoun===
+{{head|gmw-ecg|pronoun}}
+
+# {{lb|gmw-ecg|Oberlausitz|Altenburg|Mansfeld|Niederlausitz}} [[I]]
+
+====Declension====
+Oberlausitz, Altenburg:
+* Nominative: {{l|gmw-ecg|ich}}; {{l|gmw-ecg|-'ch}}, {{l|gmw-ecg|'ch}}
+* Dative: {{l|gmw-ecg|mir}}
+* Accusative: {{l|gmw-ecg|mich}}
+
+Mansfeld:
+* Nominative: {{l|gmw-ecg|ich}}; {{l|gmw-ecg|-'ch}}, {{l|gmw-ecg|'ch}}
+* Dative: {{l|gmw-ecg|mich}}
+* Accusative: {{l|gmw-ecg|mich}}
+
+Niederlausitz:
+* Nominative: {{l|gmw-ecg|ich}}; {{l|gmw-ecg|-'ich}} (as in ''hua-'ich'' = SHG ''habe ich''), {{l|gmw-ecg|-ich}} (as in ''hua-ich'' = SHG ''habe ich'')
+* Dative: {{l|gmw-ecg|merr}}
+* Accusative: {{l|gmw-ecg|merr}}
+
+====See also====
+* {{l|gmw-ecg|du}} {{q|2nd ps. sg.}}
+
+===Pronoun===
+{{head|gmw-ecg|pronoun}}
+
+# {{lb|gmw-ecg|Nord-Thüringisch|Wasungen|Erzgebirge}} [[I]]
+
+====Declension====
+Erzgebirge:
+* Nominative: {{l|gmw-ecg|îch}}, {{l|gmw-ecg|ich}}
+* Dative: {{l|gmw-ecg|mir}}, {{l|gmw-ecg|mr}}
+* Accusative: {{l|gmw-ecg|mîch}}, {{l|gmw-ecg|mich}}
+
+Nord-Thüringisch:
+{| class="prettytable"
+! rowspan="2" |  !! rowspan="2" | 1st Person Singular !! rowspan="2" | 2nd Person Singular !! colspan="3" | 3rd Person Singular
+|-
+! Masculine !! Feminine !! Neuter
+|-
+! Nominative
+| {{l|gmw-ecg|iche}}, {{l|gmw-ecg|ich}};  || {{l|gmw-ecg|duu}}; {{l|gmw-ecg|de}} || {{l|gmw-ecg|hee}}; {{l|gmw-ecg|he}} || {{l|gmw-ecg|sie}}; {{l|gmw-ecg|se}} || {{l|gmw-ecg|es}}; {{l|gmw-ecg|'s}}
+|-
+! Dative
+| {{l|gmw-ecg|mich}}; {{l|gmw-ecg|me}} || {{l|gmw-ecg|dich}};  || {{l|gmw-ecg|een}}; {{l|gmw-ecg|'n}} || {{l|gmw-ecg|eer}}; {{l|gmw-ecg|er}} ||  ; {{l|gmw-ecg|'n}}
+|-
+! Accusative
+| {{l|gmw-ecg|mich}}; {{l|gmw-ecg|me}} || {{l|gmw-ecg|dich}};  || {{l|gmw-ecg|een}}; {{l|gmw-ecg|'n}} || {{l|gmw-ecg|sie}}; {{l|gmw-ecg|se}} || {{l|gmw-ecg|es}}; {{l|gmw-ecg|'s}}
+|-
+!  !! 1st Person Plural !! 2rd  Person Plural !! colspan="3" | 3rd Person Plural
+|-
+! Nominative
+| {{l|gmw-ecg|mie}}; {{l|gmw-ecg|me}} || {{l|gmw-ecg|die}}; {{l|gmw-ecg|de}} || colspan="3" | {{l|gmw-ecg|sie}}; {{l|gmw-ecg|se}}
+|-
+! Dative
+| {{l|gmw-ecg|uns}};  || {{l|gmw-ecg|uch}};  || colspan="3" |  ; {{l|gmw-ecg|'n}}
+|-
+! Accusative
+| {{l|gmw-ecg|uns}};  || {{l|gmw-ecg|uch}};  || colspan="3" | {{l|gmw-ecg|sie}}; {{l|gmw-ecg|se}}
+|}
+:Separated by semicolon are: ''strong/normal form ; weak/enclitic form''
+
+Wasungen:
+{| class="prettytable"
+! rowspan="2" |  !! rowspan="2" | 1st Person Singular !! rowspan="2" | 2nd Person Singular !! colspan="3" | 3rd Person Singular
+|-
+! Masculine !! Feminine !! Neuter
+|-
+! Nominative
+| {{l|gmw-ecg|īch}}, {{l|gmw-ecg|ich}} || {{l|gmw-ecg|dūe}}, {{l|gmw-ecg|du}}, {{l|gmw-ecg|də}} || {{l|gmw-ecg|hǟ}}, {{l|gmw-ecg|hä}}, {{l|gmw-ecg|ə}} || {{l|gmw-ecg|sǖə}}, {{l|gmw-ecg|sü}}, {{l|gmw-ecg|sə}} || {{l|gmw-ecg|äs}}, {{l|gmw-ecg|əs}}, {{l|gmw-ecg|s}}
+|-
+! Genitive
+| colspan="2" | ''is usually paraphrased'' || {{l|gmw-ecg|sən}} || {{l|gmw-ecg|ər}}, {{l|gmw-ecg|ərə}} || {{l|gmw-ecg|sən}}
+|-
+! Dative
+| {{l|gmw-ecg|mīə}}, {{l|gmw-ecg|mə}} || {{l|gmw-ecg|dīə}}, {{l|gmw-ecg|də}} || {{l|gmw-ecg|ün}}, {{l|gmw-ecg|ən}} || {{l|gmw-ecg|ǖər}}, {{l|gmw-ecg|ər}} || {{l|gmw-ecg|ün}}, {{l|gmw-ecg|ən}}
+|-
+! Accusative
+| {{l|gmw-ecg|mīch}}, {{l|gmw-ecg|mich}} || {{l|gmw-ecg|dīch}}, {{l|gmw-ecg|dich}} || {{l|gmw-ecg|ün}}, {{l|gmw-ecg|ən}} || {{l|gmw-ecg|sǖə}}, {{l|gmw-ecg|sü}}, {{l|gmw-ecg|sə}} || {{l|gmw-ecg|äs}}, {{l|gmw-ecg|əs}}, {{l|gmw-ecg|s}}
+|-
+!  !! 1st Person Plural !! 2rd  Person Plural !! colspan="3" | 3rd Person Plural
+|-
+! Nominative
+| {{l|gmw-ecg|mīə}}, {{l|gmw-ecg|mi}}, {{l|gmw-ecg|mə}} || {{l|gmw-ecg|ǖə}}, {{l|gmw-ecg|ü}}, {{l|gmw-ecg|ə}} || colspan="3" | {{l|gmw-ecg|sǖə}}, {{l|gmw-ecg|sü}}, {{l|gmw-ecg|sə}}
+|-
+! Genitive
+| colspan="2" | ''is always paraphrased'' || colspan="3" | {{l|gmw-ecg|ər}}, {{l|gmw-ecg|ərə}}
+|-
+! Dative
+| {{l|gmw-ecg|ons}}, ''also'' {{l|gmw-ecg|onz}} || {{l|gmw-ecg|æ̊üch}}, {{l|gmw-ecg|ı̣ch}} || colspan="3" | {{l|gmw-ecg|ün}}, {{l|gmw-ecg|ən}}
+|-
+! Accusative
+| {{l|gmw-ecg|ons}}, ''also'' {{l|gmw-ecg|onz}} || {{l|gmw-ecg|æ̊üch}}, {{l|gmw-ecg|ı̣ch}} || colspan="3" | {{l|gmw-ecg|sǖə}}, {{l|gmw-ecg|sü}}, {{l|gmw-ecg|sə}}
+|}
+
+====See also====
+Erzgebirge:
+* {{l|gmw-ecg|mr}} {{q|1st ps. pl.}}
+* {{l|gmw-ecg|ihr}}; {{l|gmw-ecg|eich}} {{q|2nd ps. pl.}}
+
+Nord-Thüringisch:
+* {{l|gmw-ecg|sich}} {{q|reflexive pronoun}}
+
+====References====
+* ''Idioticon der nord-thüringischen Mundart. – Den Bürgern Nordhausens gewidmet von Dr. Martin Schultze. &nbsp; Nordhausen. Verlag von Ferd. Förstemann. 1874''
+* ''Schriften des Vereins für Sachsen-Meiningische Geschichte und Landeskunde. 71. Heft. Inhalt: Die Wasunger Mundart, 2. Teil. Von Kirchenrat Edinhard Reichardt in Meiningen. &nbsp; Hildburghausen. F. W. Gadow & Sohn, Herzogliche Hofbuchdruckerei. 1914''
+
+===See also===
+* {{l|gmw-ecg|ech}}, {{l|gmw-ecg|-'ch}}, {{l|gmw-ecg|'ch}}; {{l|gmw-ecg|mir}}, {{l|gmw-ecg|mer}}; {{l|gmw-ecg|mich}} {{q|Rudolstadt}}
+
+==East Franconian==
+
+===Pronoun===
+{{head|vmf|pronoun}}
+
+# [[I]]
+
+==German==
+
+===Alternative forms===
+* {{alt|de|Ich||royal}}
+
+===Etymology===
+From {{inh|de|gmh|ich}}, from {{inh|de|goh|ih}}, from {{inh|de|gmw-pro|*ik}}, from {{inh|de|gem-pro|[[*ek]], [[*ik]]}}, from {{inh|de|ine-pro|*éǵh₂}}.
+
+===Pronunciation===
+* {{IPA|de|/ɪç/}}
+* {{audio|de|De-ich.ogg}}
+* {{a|Austria}} {{audio|de|De-at-ich.ogg}}
+* {{homophones|de|Ich}}
+* {{rhyme|de|ɪç|s=1}}
+
+===Pronoun===
+{{head|de|pronoun|cat2=personal pronouns}}
+
+# [[I]] {{gloss|first person singular nominative (subject) pronoun}}
+
+====Declension====
+{{de-decl-personal pronouns}}
+
+In contemporary German, the genitive forms of personal pronouns are restricted to formal style and are infrequent even there. They may be used:
+* for the genitive object still found in a handful of verbs: ''Er erbarmte sich '''meiner'''.'' – "He had mercy on me". (Colloquially one would either use the dative case, or a prepositional object, or replace the verb with another.)
+* with certain adjectives or prepositions that govern the genitive, such as {{m|de|statt}} ("instead of, in place of"): ''Er kam statt '''meiner''' in die Mannschaft.'' – "He joined the team in my place." This sounds antiquated, and ''an meiner Statt'' or ''an meiner Stelle'' is preferable (in which case ''meiner'' is not a genitive, but a form of the possessive determiner {{m|de|mein}}).
+
+====Derived terms====
+* {{l|de|Ich|g=n}}
+* {{l|de|lyrisches Ich|g=n}}
+
+===Further reading===
+* {{R:Duden}}
+* {{R:DWDS}}
+
+{{cln|de|first person pronouns}}
+
+==Hunsrik==
+
+===Alternative forms===
+* {{l|hrx|eich}}
+
+===Etymology===
+From {{der|hrx|gmh|ich}}, from {{inh|hrx|goh|ih}}, from {{inh|hrx|gmw-pro|*ik}}, from {{inh|hrx|gem-pro|[[*ek]], [[*ik]]}}, from {{inh|hrx|ine-pro|*éǵh₂}}.
+
+===Pronunciation===
+* {{IPA|hrx|/iç/}}
+
+===Pronoun===
+{{head|hrx|pronoun}}
+
+# [[I]]
+#: {{ux|hrx|'''Ich''' sin en Fraa.|'''I''' am a woman.}}
+#: {{ux|hrx|'''Ich''' komme fun de Fabrick.|'''I''''m coming from the factory.}}
+
+====Inflection====
+{{hrx-decl-personal pronouns}}
+
+===Further reading===
+* [https://hunsriqueanoriograndense.wordpress.com/dicionario-werterbuch/ Online Hunsrik Dictionary]
+
+==Hutterisch==
+
+===Pronoun===
+{{head|geh|pronoun}}
+
+# [[I]]
+
+==Jakaltek==
+
+===Etymology===
+From {{inh|jac|myn-pro|*iihk}}.
+
+===Noun===
+{{head|jac|noun}}
+
+# {{l|en|chili pepper}}
+
+===References===
+* {{R:Church & Church 1955|pages=18; 24}}
+
+==Limburgish==
+
+===Alternative forms===
+* {{alter|li|iech|ik}}
+* {{alter|li|iich||Eupen}}
+* {{alter|li|ech||Southeast Limburgish}}
+
+===Etymology===
+From {{der|li|goh|ih}}, from {{der|li|gmw-pro|*ik}}, from {{inh|li|gem-pro|[[*ek]], [[*ik]]}}.
+
+===Pronunciation===
+* {{a|most dialects}} {{IPA|li|[ɪx]}}
+* {{a|Maastricht}} {{IPA|li|[ix]}}
+
+===Pronoun===
+{{head|li|pronoun|personal}}
+
+# [[I]]
+
+====Inflection====
+{| class="wikitable" style="text-align: center;"
+|-
+!
+! Singular
+! [[Dual]]<ref group=*>Dual has been extinct for many centuries.</ref>
+! Plural
+|-
+! [[nominative]]
+| [[ich]], {{l|li|'ch}}
+| {{l|li|weet}}
+| {{l|li|weer}}, {{l|li|veer}}, {{l|li|v'r}}
+|-
+! [[genitive]]<ref group=*>Genitive is no longer part of the living language.</ref>
+| {{l|li|miener}}, {{l|li|miens}}
+| {{l|li|ózzer}}
+| {{l|li|ózzer}}
+|-
+! [[locative]]<ref group=*>Locative may have existed at some point in the past.</ref>
+| {{l|li|miches}}
+| {{l|li|ózzes}}
+| {{l|li|ózzes}}
+|-
+! [[dative]]<ref group=*>Dative is nowadays obsolete, accusative is used instead.</ref>
+| {{l|li|mir}}
+| {{l|li|ós}}
+| {{l|li|ós}}
+|-
+! [[accusative]]
+| {{l|li|mich}}
+| {{l|li|ós}}
+| {{l|li|ós}}
+|}
+<references group=* />
+
+{{cln|li|shifted terms}}
+
+==Luo==
+
+===Pronunciation===
+* {{IPA|luo|/ɪ̀c/}}
+
+===Noun===
+{{head|luo|noun}}
+
+# [[stomach]]
+
+==Middle English==
+
+===Etymology 1===
+
+====Pronunciation====
+* {{IPA|enm|/itʃ/}}
+
+====Pronoun====
+{{head|enm|pronoun}}
+
+# {{alternative form of|enm|I}}
+
+=====Usage notes=====
+* {{m|enm|ich|Ich}} is the Southern and sometimes Midland form of {{m|enm|I}} in Middle English, which corresponds to {{m|enm|ik}} of the Northern dialect.
+
+===Etymology 2===
+
+====Determiner====
+{{head|enm|determiner}}
+
+# {{alt form|enm|ech}}
+
+====Pronoun====
+{{head|enm|pronoun}}
+
+# {{alt form|enm|ech}}
+
+==Middle High German==
+
+===Etymology===
+{{dercat|gmh|gmw-pro|gem-pro|ine-pro|inh=2}}
+From {{inh|gmh|goh|ih}}.
+
+===Pronoun===
+{{head|gmh|pronoun}}
+
+# {{lb|gmh|personal}} [[I]]
+
+====Inflection====
+{{Middle High German personal pronouns}}
+
+====Descendants====
+* {{desc|gsw|ich|ig|i}}
+*: Sensler: {{IPAchar|[iː]}}<ref>Schmutz, Christian; Haas, Walter. (2004). ''Senslerdeutsches Wörterbuch''. 2nd edition, Freiburg: Paulusverlag.</ref>
+*: {{desc|swg|i}}
+*:: {{desc|gmw-stm|i}}
+* {{desc|bar|i}}
+*: {{desc|cim|ich<qq:Setti Comuni>|;|i<qq:Luserna>}}
+*: {{desc|gmw-gts|iχ|ī|i<qq:unstressed>|;|iχχe<qq:emphatic>}}
+*: {{desc|mhn|i}}
+* {{desc|gmw-cfr|ich|eich|ech}}
+*: Hunsrückisch: {{l|gmw-cfr|äijsch}}
+*:: {{desc|hrx|ich}} {{IPAchar|[ɪç]}}<ref>Altenhofen, Cléo Vilson. (1996). ''Hunsrückisch in Rio Grande do Sul: Ein Beitrag zur Beschreibung einer deutschbrasilianischen Dialektvarietät im Kontakt mit dem Portugiesischen''. (''Mainzer Studien zur Sprach- und Volksforschung 21''.) Stuttgart: Franz Steiner Verlag.</ref>
+*: Britten: {{IPAchar|[æɪ̯ʃ]}}, {{IPAchar|[ɪʃ]}}<ref name="Besse">"ich". In: Besse, Maria. (2004). ''Britter Wörterbuch''. Losheim am See: Verein für Heimatkunde in der Gemeinde Losheim am See.</ref>
+*: {{desc|ksh|ich}}<ref>Online-Wörterbuch der Akademie för uns kölsche Sproch, Stichwort »ich« ([https://web.archive.org/web/20170130164722/http://www.koelsch-akademie.de/nc/online-woerterbuch/ich/von/2/action/list URL]).</ref>
+* {{desc|gmw-ecg|-}}
+*: Erzgebirgisch: {{l|gmw-ecg|iech}}
+*: {{desc|sli|iech}}
+*: {{desc|sxu|isch}}, {{l|gmw-ecg|ische}}
+* {{desc|vmf|i|iech}}
+* {{desc|de|ich}}
+* {{desc|lb|ech}}
+* {{desc|gmw-rfr|-}}
+*: Hessian: {{l|gmw-rfr|aisch}}
+*: {{desc|pdc|ich}} {{IPAchar|[ɪç]}}<ref>Kelz, Heinrich P. (1971). ''Phonologische Analyse des Pennsylvaniadeutschen''. Hamburg: Buske.</ref>
+* {{desc|wym|ych}}
+* {{desc|yi|איך|ich}}
+
+===References===
+<references/>
+
+==Pennsylvania German==
+
+===Etymology===
+From {{inh|pdc|gmh|ich}}, from {{inh|pdc|goh|ih}}. Compare {{cog|de|ich}}, {{cog|nl|ik}}, {{cog|en|I}}, {{cog|non|ek}}.
+
+===Pronoun===
+{{head|pdc|pronoun}}
+
+# [[I]]
+
+====Declension====
+<div class="NavFrame" style="width: 31em;">
+<div class="NavHead">Declension of ''{{PAGENAME}}''</div>
+<div class="NavContent">
+{| style="margin-left:0.5em; margin-bottom:0.5em; border: 1px solid #AAAAAA; border-collapse:collapse;" cellpadding="5" rules="all"
+|-
+! width="65" bgcolor="#F4F4F4" |
+! bgcolor="#EEEEB0" | Nominative
+! bgcolor="#EEEEB0" | Accusative
+! bgcolor="#EEEEB0" | Dative
+|-
+| bgcolor="#DDDDFF" | '''1st - Singular'''
+| align="center" | {{l-self|pdc|ich}}
+| align="center" | {{l-self|pdc|mich}}
+| align="center" | {{l-self|pdc|mir}}<br>{{l-self|pdc|mer}} (unstressed)
+|-
+| bgcolor="#DDDDFF" | '''2nd - Singular'''
+| align="center" | {{l-self|pdc|du}}<br>{{l-self|pdc|de}} (unstressed)
+| align="center" | {{l-self|pdc|dich}}
+| align="center" | {{l-self|pdc|dir}}<br>{{l-self|pdc|der}} (unstressed)
+|-
+| bgcolor="#DDDDFF" | '''3rd - Singular Masculine'''
+| align="center" | {{l-self|pdc|er}}
+| align="center" | {{l-self|pdc|ihn}}<br>{{l-self|pdc|en}} (unstressed)
+| align="center" | {{l-self|pdc|ihm}}<br>{{l-self|pdc|em}} (unstressed)
+|-
+| bgcolor="#DDDDFF" | '''3rd - Singular Feminine'''
+| align="center" | {{l-self|pdc|sie}}<br>{{l-self|pdc|se}} (unstressed)
+| align="center" | {{l-self|pdc|sie}}<br>{{l-self|pdc|se}} (unstressed)
+| align="center" | {{l-self|pdc|ihre}}<br>{{l-self|pdc|re}} (unstressed)
+|-
+| bgcolor="#DDDDFF" | '''3rd - Singular Neuter'''
+| align="center" | {{l-self|pdc|es}}
+| align="center" | {{l-self|pdc|es}}
+| align="center" | {{l-self|pdc|ihm}}<br>{{l-self|pdc|em}} (unstressed)
+|-
+| bgcolor="#DDDDFF" | '''1st - Plural'''
+| align="center" | {{l-self|pdc|mir}}<br>{{l-self|pdc|mer}} (unstressed)
+| align="center" | {{l-self|pdc|uns}}
+| align="center" | {{l-self|pdc|uns}}
+|-
+| bgcolor="#DDDDFF" | '''2nd - Plural'''
+| align="center" | {{l-self|pdc|dihr}}<br>{{l-self|pdc|der}} (unstressed)
+| align="center" | {{l-self|pdc|eich}}
+| align="center" | {{l-self|pdc|eich}}
+|-
+| bgcolor="#DDDDFF" | '''3rd - Plural'''
+| align="center" | {{l-self|pdc|sie}}
+| align="center" | {{l-self|pdc|sie}}
+| align="center" | {{l-self|pdc|ihne}}<br>{{l-self|pdc|ne}} (unstressed)
+|-
+| bgcolor="#DDDDFF" | '''2nd - Polite'''
+| align="center" | {{l-self|pdc|Sie}}
+| align="center" | {{l-self|pdc|Sie}}
+| align="center" | {{l-self|pdc|Ihne}}<br>{{l-self|pdc|Ne}} (unstressed)
+|}</div></div>
+
+==Polish==
+
+===Pronunciation===
+{{pl-p|a=Pl-ich.ogg}}
+
+===Pronoun===
+{{head|pl|pronoun|indeclinable}}
+
+# [[possessive pronoun]] for {{m|pl|oni}} or {{m|pl|one}}, namely ''[[their]]'' or ''[[theirs]]''
+
+===Pronoun===
+{{head|pl|pronoun form}}
+
+# {{inflection of|pl|oni||gen}}; [[them]]
+# {{inflection of|pl|one||gen}}; [[them]]
+# {{inflection of|pl|oni||pr|m|acc}}; [[them]]
+
+===See also===
+* {{l|pl|nich}}
+* [[Appendix:Polish pronouns]]
+
+===Further reading===
+* {{R:pl:WSJP}}
+* {{R:pl:PWN}}
+
+==Rhine Franconian==
+
+===Etymology===
+Cognate to {{cog|de|ich}}.
+
+===Pronoun===
+{{head|gmw-rfr|pronoun}}
+
+# {{lb|gmw-rfr|Kassel}} [[I]]
+
+====See also====
+* {{l|gmw-rfr|[[Du]]; [[De]]||you (singular)}}
+
+==Slovak==
+
+===Pronunciation===
+* {{sk-IPA}}
+
+===Pronoun===
+{{head|sk|pronoun}}
+
+: (The ''genitive plural'' and ''accusative plural'' of '''[[on#Slovak|on]]''' (''he''), '''[[ona#Slovak|ona]]''' (''she''), and '''[[ono#Slovak|one]]''' (''it'').)
+
+# {{lb|sk|possessive pronoun}} [[their]], [[theirs]]
+# [[them]]
+
+===Further reading===
+* {{R:sk:SDK}}
+
+==Swabian==
+
+===Etymology===
+Cognate to {{cog|de|ich}}.
+
+===Pronoun===
+{{head|swg|pronoun}}
+
+# {{lb|swg|possibly less common}} [[I]]
+#* {{quote-text|swg|year=1863|author=Jakob Friedrich Schmidt|title=Gedichte in schwäbischer Mundart von J. F. Schmidt}}
+#** p. 16:
+#**: Daß iar aber it moinet, i dä gar nix dett doba, so habe '''ich''' nothwendig Euch zu sagen, daß dau Arbet gnug geit, [...]
+#**: '''Ich''' habe zwar nicht nothwendig Euch zu sagen, warum i net mitturna dua, abr [...]
+#** P 30:
+#**: „Herr Fürst,“ haut do der Pfortner gsait,<br /> „'''Ich''' habs verstekt da nei,<br /> Denn da kommt ebn die ganze Zeit<br /> Kei eiz'ger Mensch nich rei!“
+#** P 46:
+#**: Darum will '''ich''' ihm iatz deuta,<br /> Daß mir ganz mit Heaz und Händ<br /> Alles Loid und alle Freuda<br /> Redlich mit ihm thoila wend.
+
+====Declension====
+* Nominative: {{l|swg|ich}} {{lb|swg|less common}}; {{l|swg|i}}
+* Dative: {{l|swg|mir}}
+* Accusative: {{l|swg|mi}}
+
+====Alternative forms====
+* {{l|swg|i'}}, {{l|swg|i}}
+
+====Descendants====
+* {{desc|gmw-stm|i}}
+
+====See also====
+* {{l|swg|[[Du]], dat. [[Dir]], acc. [[Di]]||you (singular)}}
+* {{l|swg|-s||it, enclitic}}
+
+===Pronoun===
+{{head|swg|pronoun form}}
+
+# {{n-g|dative and accusative of {{m|swg|ihr||you (plural)}}}}
+
+==Transylvanian Saxon==
+
+===Etymology===
+Cognate to {{cog|de|ich}}.
+
+===Pronoun===
+{{head|gmw-tsx|pronoun}}
+
+# [[I]]
+
+==Volga German==
+
+===Pronoun===
+{{head|gmw-vog|pronoun}}
+
+# [[I]]
+
+==Yola==
+
+===Etymology===
+{{dercat|yol|gem-pro|ine-pro|inh=2}}
+From {{inh|yol|enm|I|ich}}, from {{inh|yol|ang|iċ}}, from {{inh|yol|gmw-pro|*ik}}. Compare obsolete {{cog|en|ich}}.
+
+===Pronoun===
+{{head|yol|pronoun|cat2=personal pronouns}}
+
+# [[I]]
+#* {{quote-book|yol|year=1867|chapter=JAMEEN QOUGEELY EE-PEALTHE|line=5|title=SONGS, ETC. IN THE DIALECT OF FORTH AND BARGY|passage=If '''ich''' hadh Peeougheen a Buch, Meyleare a Slut, Peedher Ghiel-laaune, an Jackeen Bugaaune,|translation=If '''I''' had Hugh the Buck, Meyler the Sloven, Peter the Smart Man, and John Boggan,}}
+
+====Synonyms====
+* {{l|yol|'ch-}} {{q|clitic}}
+
+====References====
+* {{R:Poole 1867|page=47 & 110}}
+
+==Yucatec Maya==
+
+===Etymology===
+From {{inh|yua|myn-pro|*Haty}}.
+
+===Pronunciation===
+* {{IPA|yua|[ˈit͡ʃ]}}
+
+===Noun===
+{{yua-noun}}
+
+# [[eye]]
+# [[face]]
+# [[fruit]] {{attn|yua|not in the cited sources}}
+
+===References===
+* {{R:Beltrán 1746|page=164|passage=''Ich'' ssssss s ssss Ojo.}}
+* {{R:Montgomery 2004|page=59}}
+
+{{c|yua|Body parts}}
+
+==Zipser German==
+
+===Etymology===
+Cognate to {{cog|de|ich}}.
+
+===Pronoun===
+{{head|gmw-zps|pronoun}}
+
+# [[I]]

@@ -1,0 +1,413 @@
+{{also|MIT|MİT|mít|mît|mīt|mit-|-mit}}
+==Abinomn==
+
+===Pronoun===
+{{head|bsa|pronoun}}
+
+# [[I]]
+
+==Danish==
+
+===Pronunciation===
+* {{IPA|da|/mit/|[mid̥]}}
+
+===Pronoun===
+{{head|da|pronoun}}
+
+# {{lb|da|possessive}} {{neuter singular of|da|min}}
+
+====See also====
+{{Danish personal pronouns}}
+
+==French==
+
+===Pronunciation===
+* {{fr-IPA|pos=v}}
+* {{audio|fr|LL-Q150 (fra)-Pamputt-mit.wav|Audio}}
+* {{homophones|fr|mi|mie|mies|mis|mît}}
+
+===Verb===
+{{head|fr|verb form}}
+
+# {{inflection of|fr|mettre||3|s|phis}}
+
+==German==
+
+===Etymology===
+{{dercat|de|gem-pro|inh=1}}
+From {{inh|de|gmh|mite}}, {{m|gmh|mit}}, from {{inh|de|goh|miti}}, {{m|goh|mit}}, from {{inh|de|gmw-pro|*midi}}. Cognate with {{cog|nds-de|[[met]], [[mihe-]] (separable part of verbs) {{q|Paderbornisch}}}} and {{cog|enm|mid||with}}.
+
+===Pronunciation===
+* {{IPA|de|/mɪt/}}
+* {{audio|de|De-mit.ogg|audio}}
+* {{audio|de|De-mit2.ogg|audio}}
+* {{rhymes|de|ɪt|s=1}}
+
+===Preposition===
+{{head|de|preposition}} {{tlb|de|takes dative}}
+
+# [[with]] {{gloss|in the company of; alongside}}
+#: {{ux|de|Ich spiele '''mit''' meinen Freunden.|I'm playing '''with''' my friends.}}
+# [[with]], [[by]] {{gloss|using as an instrument; by means of}}
+#: {{ux|de|Ich schreibe '''mit''' einem Bleistift.|I'm writing with a pencil.}}
+#: {{ux|de|Ich fahre '''mit''' dem Bus.|I'm going '''by''' bus.}}
+# [[with]] {{gloss|as an accessory to}}
+# [[with]] {{gloss|having}}
+# [[at]] {{gloss|with the age of}}
+# [[with]], [[including]], with ... [[included]]
+
+====Usage notes====
+* In older usage, Latin-derived nouns occurred in the ablative case after '''''mit''''', e.g. '''''mit''' dem Corpore'', '''''mit''' dem Nomine''.
+
+====Synonyms====
+* {{l|de|m.}} {{qualifier|abbreviation}}
+* {{l|de|m/}} {{qualifier|abbreviation; now very rare}}
+
+====Antonyms====
+* {{l|de|ohne}}
+
+===Adverb===
+{{de-adv}}
+
+# [[among]]; {{non-gloss definition|denotes a belonging of a person or a thing to a group}}
+#: {{ux|de|Hier gibt es '''mit''' das beste Essen in der Stadt.|Here they have some of the best food in town.}}
+#: {{ux|de|Ich war '''mit''' der erste, der hier war.|I was one of the very first who arrived.}}
+# [[also]], [[too]] {{gloss|in addition; besides; as well}}
+# {{lb|de|somewhat|informal}} [[with]] (something), with it
+#: {{ux|de|Ich brauch nicht unbedingt Majonäse zu den Fritten, aber '''mit''' sind sie natürlich besser.|I don't necessarily need mayonnaise with the chips, but they taste better '''with it''', of course.}}
+
+====Derived terms====
+* {{l|de|mittem}} {{qualifier|colloquial contraction with definite article ''[[dem]]''}}
+* {{l|de|mim}} {{qualifier|colloquial contraction with definite article ''[[dem]]''; not used in standard German}}
+
+===Further reading===
+* {{R:DWDS}}
+
+===Anagrams===
+* {{l|de|Tim}}
+
+==German Low German==
+
+===Preposition===
+{{head|nds-de|preposition}}
+
+# {{alternative spelling of|nds-de|mid}}
+
+==Hungarian==
+{{hu-suff-pron}}
+
+===Etymology===
+{{affix|hu|mi|-t|t1=what?|pos2=accusative suffix|nocat=y}}
+
+===Pronunciation===
+* {{hu-IPA}}
+* {{audio|hu|Hu-mit.ogg|Audio}}
+
+===Pronoun===
+{{head|hu|pronoun form}}
+
+# {{inflection of|hu|mi||acc|s}}
+#: {{ux|hu|'''Mit''' gondolsz?|'''What''' do you think?|inline=1}}
+# {{lb|hu|colloquial}} [[why]]
+#: {{ux|hu|'''Mit''' szórakozol velem?|'''Why''' (the hell) are you messing with me?|inline=1}}
+
+====Derived terms====
+* {{l|hu|nincs mit}}
+
+{{cln|hu|three-letter words}}
+
+==Hunsrik==
+
+===Etymology===
+From {{inh|hrx|gmh|mite}}, from {{inh|hrx|goh|mit}}.
+
+===Pronunciation===
+* {{IPA|hrx|/mit/}}
+
+===Preposition===
+{{head|hrx|preposition}} {{tlb|hrx|+ dative}}
+
+# [[with]] {{gloss|in the company of; alongside}}
+#: {{ux|hrx|Komm '''mit''' meer.|Come '''with''' me.}}
+# [[with]], [[by]] {{gloss|using as an instrument; by means of}}
+#: {{ux|hrx|Ich schreive '''mit''' em Lappis.|I'm writing '''with''' a pencil.}}
+#: {{ux|hrx|Meer sin '''mim''' Onnibus komm.|We came '''by''' bus.}}
+#: {{ux|hrx|Ich mache’s '''mit''' zimlicher Sicherheet.|I do it '''with''' considerable certainty.}}
+
+====Antonyms====
+* {{l|hrx|ohne}}
+
+====Derived terms====
+* ('''''mit''' + dem'') {{l|hrx|mim}}
+
+===Further reading===
+* [http://www.hunsrik.org/Lexi/SearchResult?searchStr=aan Online Hunsrik Dictionary]
+
+==Iban==
+
+===Pronunciation===
+* {{IPA|iba|/mit/}}
+
+===Adjective===
+{{head|iba|adjective}}
+
+# [[small]]
+
+==Middle English==
+
+===Preposition===
+{{head|enm|preposition}}
+
+# {{alternative spelling of|enm|mid}}
+
+===Adjective===
+{{enm-adj}}
+
+# {{alternative spelling of|enm|mid}}
+
+==Norwegian Bokmål==
+
+===Noun===
+{{nb-noun-m1}}
+
+# {{nb-former|midd|2005}}
+
+==Norwegian Nynorsk==
+
+===Noun===
+{{nn-noun-m1}}
+
+# {{nn-former|midd|2012}}
+
+==Old Dutch==
+
+===Alternative forms===
+* {{alter|odt|bit}}
+
+===Etymology===
+{{dercat|odt|gem-pro|ine-pro|inh=1}}
+From {{inh|odt|gmw-pro|*midi}}.
+
+===Preposition===
+{{head|odt|preposition}}
+
+# [[with]]
+
+====Related terms====
+* {{l|odt|midi}}
+
+====Descendants====
+* {{desctree|dum|met}}
+
+====Further reading====
+* {{R:ONW|2985}}
+
+==Old High German==
+
+===Alternative forms===
+* {{alter|goh|miti}}
+
+===Etymology===
+{{dercat|goh|gem-pro|ine-pro|inh=1}}
+From {{inh|goh|gmw-pro|*midi}}. Akin to {{cog|ang|mid}}, {{cog|osx|mid}}, {{cog|non|með}}.
+
+===Preposition===
+{{head|goh|prepositions}}
+
+# [[with]]
+
+====Descendants====
+* {{desc|gmh|mite|mit}}
+** {{desc|cim|met}}
+** {{desc|de|mit}}
+** {{desc|hrx|mit}}
+** {{desc|lb|mat}}
+** {{desc|wym|myt}}
+** {{desc|yi|מיט}}
+
+==Old Saxon==
+
+===Preposition===
+{{osx-prep}}
+
+# {{alternative form of|osx|mid}}
+
+==Pennsylvania German==
+
+===Etymology===
+From {{inh|pdc|gmh|mite}}, from {{inh|pdc|goh|mit}}. Compare {{cog|de|mit}}, {{cog|nl|met}}, {{cog|sv|med}}.
+
+===Adverb===
+{{head|pdc|adverb}}
+
+# [[along]]
+
+===Preposition===
+{{head|pdc|preposition}}
+
+# [[with]]
+
+==Polish==
+
+===Etymology===
+{{bor+|pl|grc|μῦθος|t=myth}}.
+
+===Pronunciation===
+{{pl-p|a=Pl-mit.ogg}}
+
+===Noun===
+{{pl-noun|m-in}}
+
+# [[myth]] {{gl|traditional story which embodies a belief regarding some fact or phenomenon of experience}}
+# {{lb|pl|figuratively}} [[myth]] {{gl|commonly-held but false belief, a common misconception}}
+
+====Declension====
+{{pl-decl-noun-m-in}}
+
+====Derived terms====
+{{col-auto|pl|mityczny}}
+
+===Further reading===
+* {{R:pl:WSJP}}
+* {{R:pl:PWN}}
+
+==Romanian==
+
+===Etymology===
+{{bor+|ro|grc|μῦθος}} or {{bor|ro|fr|mythe}}.
+
+===Noun===
+{{ro-noun|n|mituri}}
+
+# [[myth]] (story)
+
+====Declension====
+{{ro-noun-n-uri}}
+
+==Serbo-Croatian==
+
+===Etymology===
+From {{bor|sh|grc|μῦθος|t=myth}}.
+
+===Noun===
+{{sh-noun|g=m|head=mȋt}}
+
+# [[myth]]
+
+====Declension====
+{{sh-decl-noun
+|mit|mitovi
+|mita|mitova
+|mitu|mitovima
+|mit|mitove
+|mite|mitovi
+|mitu|mitovima
+|mitom|mitovima
+}}
+
+==Tedim Chin==
+
+===Etymology===
+From {{inh|ctd|tbq-kuk-pro|*mik}} from {{inh|ctd|sit-pro|*s-mjak ~ s-mik|*myikw}}.
+
+===Noun===
+{{head|ctd|noun}}
+
+# [[eye]]
+
+===References===
+* ''Zomi Ordbog'' based on the work of D.L. Haokip
+
+==Tocharian B==
+
+===Alternative forms===
+* {{l|txb|mīt}}
+
+===Etymology===
+From {{inh|txb|ine-toc-pro|*ḿət(ə)}}, from {{inh|txb|ine-pro|*médʰu||mead}}. See also {{cog|och|-}} {{m|zh|蜜||honey|tr=OC *mit}}, which is possibly a borrowing from Tocharian.
+
+===Noun===
+{{head|txb|noun}}
+
+# [[honey]]
+
+==Tok Pisin==
+{{LDL|tpi}}
+
+===Etymology===
+From {{der|tpi|en|meat}}.
+
+===Noun===
+{{head|tpi|noun}}
+
+# [[flesh]], [[meat]]
+#* {{RQ:Buk Baibel|Jenesis|2|23|passage=Man i lukim meri na em i tok olsem, “Em nau. Em i poroman tru bilong mi. Bun bilong em i kamap long bun bilong mi, na '''mit''' bilong em i kamap long '''mit''' bilong mi. God i wokim em long bun bilong mi, olsem na bai mi kolim em ‘meri.’ ”}}
+
+==Turkish==
+
+===Etymology===
+{{bor+|tr|fr|mythe}}<ref>{{R:tr:Nişanyan|mit}}</ref>.
+
+===Pronunciation===
+* {{IPA|tr|/ˈmit/}}
+* {{hyph|tr|mit}}
+
+===Noun===
+{{tr-noun|i|ler}}
+
+# [[myth]]
+#: {{syn|tr|efsane|mitos|q2=dated}}
+
+====Declension====
+{{tr-infl-noun-c|i|poss=1}}
+
+===References===
+<references/>
+
+===Further reading===
+* {{R:TDK}}
+
+==Volapük==
+
+===Noun===
+{{vo-noun}}
+
+# [[meat]]
+
+====Declension====
+{{vo-decl-noun}}
+
+====Derived terms====
+{{rel-top3|Terms derived from ''mit'' "meat"}}
+* {{l|vo|bubamit}}
+* {{l|vo|jipamit}}
+* {{l|vo|stägamit}}
+{{rel-bottom}}
+
+====See also====
+* {{l|vo|möt}} ( = [[de]]: [[Mett]])
+
+[[Category:vo:Meats]]
+
+==Zou==
+
+===Etymology===
+From {{inh|zom|tbq-kuk-pro|*mik}}.
+
+===Pronunciation===
+* {{IPA|zom|/mît/}}
+* {{hyph|zom|mit}}
+
+===Noun===
+{{head|zom|noun|head=mìt}}
+
+# [[eye]]
+
+====Derived terms====
+{{col4|zom
+|mitmul}}
+
+===References===
+* {{R:zom:Singh:2013|page=41}}
+
+{{C|zom|Face}}

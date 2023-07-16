@@ -1,0 +1,91 @@
+{{also|váter|vàter|vatër|Vater|Väter}}
+==English==
+{{wikipedia}}
+
+===Etymology===
+Borrowed from {{bor|en|de|Vater}}.
+
+===Proper noun===
+{{en-proper noun|s}}
+
+# {{surname|en|from=German}}.
+
+====Statistics====
+* According to the 2010 United States Census, ''Vater'' is the 37076<sup>th</sup> most common surname in the United States, belonging to 602 individuals. ''Vater'' is most common among White (95.85%) individuals.
+
+===Further reading===
+* {{R:en:DAFN}}
+
+==German==
+
+===Alternative forms===
+* {{alter|de|Vatter||obsolete, except informally, representing the regional pronunciation}}
+
+===Etymology===
+From {{inh|de|gmh|vater}}, from {{inh|de|goh|fater}}, from {{inh|de|gmw-pro|*fader}}, from {{inh|de|gem-pro|*fadēr}}, from {{inh|de|ine-pro|*ph₂tḗr}}. Germanic cognates include {{cog|nl|vader}}, {{cog|nds|Vader}}, {{cog|en|father}}, {{cog|da|fader}}, {{cog|got|𐍆𐌰𐌳𐌰𐍂}}.
+
+===Pronunciation===
+* {{IPA|de|/ˈfaːtər/|/ˈfaːtɐ/|[ˈfɑːtʰɐ]}}
+* {{IPA|de|[ˈfatʰɐ]}} {{a|Rheinish, Westphalian}}
+* {{IPA|de|[ˈfɑːtər]}} {{a|Swiss, Austro-Bavarian}}
+* {{audio|de|De-at-Vater.ogg|audio (Austria)}}
+* {{audio|de|De-Vater.ogg|Audio}}
+
+===Noun===
+{{de-noun|m,,^|dim=^chen}}
+
+# [[father]]
+#: {{ant|de|Sohn<q:by birth order><g:m>|;|Mutter<q:by sex><g:f>}}
+#: {{ux|de|[[mein Vater erklärt mir jeden Sonntag unsere neun Planeten|Mein '''Vater''' erklärt mir jeden Sonntag unsere neun Planeten.]]|My '''father''' explains to me our nine planets every Sunday.}}
+
+====Declension====
+{{de-ndecl|m,,^}}
+
+====Derived terms====
+{{der3|de
+|Ältervater
+|Beichtvater
+|Doktorvater
+|Familienvater
+|Gottvater
+|Großvater
+|Gründervater
+|Kirchenvater
+|Landesvater
+|Pflegevater
+|Rabenvater
+|Stammvater
+|Stiefvater
+|Übervater
+|Urvater
+|Vater-Mutter-Kind
+|Vaterbruder
+|Vaterfigur
+|Vaterhaus
+|Vaterland
+|väterlich
+|vaterlos
+|Vatermörder
+|Vaterschaft
+|Vaterschwester
+|Vatersmutter
+|Vatersschwester
+|Vaterstadt
+|Vatersname
+|Vatertag
+|Vaterunser
+|wie der Vater, so der Sohn
+|Ziehvater
+}}
+
+====Related terms====
+* {{l|de|Gevatter}}
+
+===Further reading===
+* {{R:DWDS}}
+* {{R:UniLeipzig}}
+* {{R:Duden}}
+* {{pedia|lang=de}}
+* {{R:Kluge 1891}}
+
+{{C|de|Male family members}}

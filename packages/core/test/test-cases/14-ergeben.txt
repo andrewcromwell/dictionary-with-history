@@ -1,0 +1,60 @@
+==German==
+
+===Pronunciation===
+* {{IPA|de|/ɛʁˈɡeːbən/}}
+* {{hyphenation|de|er|ge|ben}}
+* {{audio|de|De-ergeben.ogg|Audio}}
+
+===Etymology 1===
+{{root|de|ine-pro|*gʰebʰ-}}
+From {{inh|de|gem-pro|*uzgebaną}}; cognate with obsolete {{cog|en|agive}}. Equivalent to {{prefix|de|er|geben}}.
+
+====Verb====
+{{de-verb|ergeben<ergibt#ergab,ergeben,ergäbe>}}
+
+# {{lb|de|transitive}} to [[yield]], [[produce]]
+#: {{ux|de|Zwei Liter Teig '''ergeben''' laut des Rezepts 12 Muffins.|According to the recipe, two litres of batter '''makes''' 12 muffins.}}
+## {{lb|de|with {{m|de|Sinn}}}} to [[make sense]]
+##: {{syn|de|Sinn machen}}
+##: {{ux|de|Ihr Vorschlag '''ergibt Sinn'''.|Her proposal '''makes sense'''.}}
+# {{lb|de|reflexive}} to [[surrender]]
+#: {{uxi|de|Er '''ergab''' sich.|He '''surrendered'''.}}
+# {{lb|de|reflexive}} to [[arise]], [[result]], [[turn out]]
+#: {{ux|de|Einige Einheiten '''ergeben''' sich durch algebraische Kombination.|Some units are '''given''' by algebraic combination.}}
+# {{lb|de|reflexive|impersonal}} to [[happen]]
+#: {{ux|de|Es hat sich so '''ergeben'''.|translation=It '''happened''' like this.}}
+
+=====Conjugation=====
+{{de-conj|ergeben<ergibt#ergab,ergeben,ergäbe>}}
+
+=====Related terms=====
+* {{l|de|Ergeber}}
+* {{l|de|Ergebnis}}
+* {{l|de|Ergebung}}
+* {{l|de|ergiebig}}
+
+===Etymology 2===
+
+====Participle====
+{{head|de|past participle}}
+
+# {{past participle of|de|ergeben}}
+
+====Adjective====
+{{de-adj|comp}}
+
+# [[loyal]], [[devoted]], [[humble]], [[obedient]]
+#: {{ant|de|aufsässig|widerspenstig}}
+#: {{uxi|de|Ihr '''ergebenster''' Diener|Your '''most humble''' servant}}
+
+=====Declension=====
+{{de-adecl|comp}}
+
+=====Derived terms=====
+* {{l|de|Ergebenheit}}
+
+===Further reading===
+* {{R:DWDS}}
+* {{R:UniLeipzig}}
+* {{R:Duden}}
+* {{R:OpenThesaurus}}

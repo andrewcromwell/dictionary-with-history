@@ -1,0 +1,291 @@
+{{also|Blau}}
+==Bavarian==
+
+===Etymology===
+Cognate with {{cog|de|blau}}.
+
+===Pronunciation===
+* {{IPA|bar|/b̥laʊ̯/}}
+** {{audio|bar|LL-Q29540 (bar)-SarahFatimaK-blau.wav|Audio}}
+
+===Adjective===
+{{bar-adj}}
+
+# [[blue]]
+
+====See also====
+{{table:colors/bar}}
+
+==Catalan==
+
+===Etymology===
+{{inh+|ca|LL.|blāvus}}, from {{der|ca|gem-pro|*blēwaz}}.
+
+===Pronunciation===
+* {{ca-IPA}}
+* {{audio|ca|LL-Q7026 (cat)-Millars-blau.wav|Audio (Valencian)}}
+* {{audio|ca|LL-Q7026 (cat)-Toniher-blau.wav|Audio (Catalonia)}}
+* {{rhymes|ca|aw|s=1}}
+
+===Adjective===
+{{ca-adj}}
+
+# [[blue]]
+
+===Noun===
+{{ca-noun|m}}
+
+# [[blue]]
+# [[bruise]]
+
+===Related terms===
+{{rel4|ca
+|balena blava
+|blauet
+|blaugrana
+|blaüra
+|blaürar
+|blava
+|blavar
+|blaver
+|blavenc
+|blavenca
+|blaverol
+|blavet
+|blaveta
+|blavís
+|blavor
+|blavós
+|blavosenc
+|blavura
+|príncep blau
+}}
+
+===See also===
+{{table:colors/ca}}
+
+===Further reading===
+* {{R:ca:IEC2}}
+* {{R:ca:GDLC}}
+* {{R:ca:DNV}}
+* {{R:ca:DCVB}}
+
+{{C|ca|Blues}}
+
+==German==
+
+===Etymology===
+From {{inh|de|gmh|blā}} (genitive {{m|gmh|blāwes}}), from {{inh|de|goh|blāo}}, from {{inh|de|gmw-pro|*blāu}}, from {{inh|de|gem-pro|*blēwaz}}.
+
+===Pronunciation===
+* {{IPA|de|/blaʊ̯/}}
+* {{rhymes|de|aʊ̯|s=1}}
+* {{audio|de|De-blau.ogg|audio (Germany)}}
+* {{audio|de|De-at-blau.ogg|audio (Austria)}}
+
+===Adjective===
+{{de-adj|comp}}
+
+# [[blue]]
+# [[drunk]]
+#: {{syn|de|betrunken}}
+# [[bruised]]
+#: {{uxi|de|blauer Fleck|bruise (literally, blue spot)}}
+#: {{uxi|de|blaues Auge |[[black eye]]}}
+
+====Declension====
+{{de-adecl|comp}}
+
+====Derived terms====
+{{der3|de
+|aquamarinblau
+|Blau
+|blaues Auge
+|blau machen
+|dunkelblau
+|hellblau
+|himmelblau
+|kornblumenblau
+|mitternachtsblau
+|sein blaues Wunder erleben
+|stahlblau
+}}
+
+===See also===
+{{table:colors/de}}
+
+===Further reading===
+* {{R:Duden}}
+* {{R:DWDS}}
+
+{{C|de|Colors|Colors of the rainbow}}
+
+==Hunsrik==
+
+===Alternative forms===
+* {{alter|hrx|plau||Wiesemann spelling system}}
+* {{alter|hrx|blo}}
+
+===Etymology===
+From {{inh|hrx|gmh|blā}}, {{m|gmh|blāwes}}, from {{inh|hrx|goh|blāo}}, from {{inh|hrx|gmw-pro|*blāu}}, from {{inh|hrx|gem-pro|*blēwaz}}.
+
+===Pronunciation===
+* {{IPA|hrx|/plaʊ̯/}}
+
+===Adjective===
+{{head|hrx|adjective|comparative|blauer|superlative|blauest}}
+
+# [[blue]]
+#: {{ux|hrx|'''Blaue''' Aue.|'''Blue''' eyes.}}
+
+====Declension====
+{{hrx-decl-adj|blau}}
+
+===See also===
+{{table:colors/hrx}}
+
+===Further reading===
+* [https://hunsriqueanoriograndense.wordpress.com/dicionario-werterbuch/ Online Hunsrik Dictionary]
+
+[[Category:hrx:Colors]]
+
+==Interlingua==
+
+===Adjective===
+{{head|ia|adjective}}
+
+# [[blue]]
+
+====See also====
+{{table:colors/ia}}
+
+[[Category:ia:Colors]]
+
+==Middle Dutch==
+
+===Etymology===
+From {{inh|dum|odt|*blāo}}, from {{inh|dum|gmw-pro|*blāu}}, from {{inh|dum|gem-pro|*blēwaz}}.
+
+===Pronunciation===
+* {{IPA|dum|/blaːu/|/blau/}}
+
+===Adjective===
+{{dum-adj}}
+
+# [[blue]]
+
+====Inflection====
+{{rfinfl|dum|adjective}}
+
+====Alternative forms====
+* {{l|dum|blâ}}
+* {{l|dum|blâeu}}
+
+====Descendants====
+* {{desctree|nl|blauw}}
+* {{desc|li|blów}}
+
+===Noun===
+{{dum-noun|n}}
+
+# the colour [[blue]]
+
+====Inflection====
+{{rfinfl|dum|noun}}
+
+====Alternative forms====
+* {{l|dum|blâeu}}
+
+===Further reading===
+* {{R:VMNW|ID20352|II}}
+* {{R:MNW|04586}}
+
+{{topics|dum|Colors}}
+
+==Occitan==
+
+===Etymology===
+From {{inh|oc|LL.|blāvus}}, from {{der|oc|gem-pro|*blēwaz}}.
+
+===Pronunciation===
+* {{audio|oc|LL-Q14185 (oci)-Davidgrosclaude-blau.wav|Audio}}
+
+===Adjective===
+{{oc-adj|f=blava}}
+
+# [[blue]]
+
+===Noun===
+{{oc-noun|m}}
+
+# [[blue]]
+
+{{c|oc|Colors}}
+
+==Romansch==
+
+===Alternative forms===
+* {{alt|rm|blo||Sutsilvan|Surmiran}}
+* {{alt|rm|blov||Puter}}
+
+===Etymology===
+From {{inh|rm|LL.|blāvus}}, from {{der|rm|gem-pro|*blēwaz}}.
+
+===Adjective===
+{{rm-adj}}
+
+# {{lb|rm|Rumantsch Grischun|Sursilvan|Sutsilvan|Vallader}} [[blue]]
+
+[[Category:rm:Colors]]
+
+==Saterland Frisian==
+
+===Etymology===
+{{dercat|stq|gem-pro|ine-pro|inh=1}}
+From {{inh|stq|ofs|blāu}}, from {{inh|stq|gmw-pro|*blāu}}. Cognates include {{cog|de|blau}} and {{cog|fy|blau}}.
+
+===Pronunciation===
+* {{IPA|stq|/blaːu̯/}}
+* {{hyph|stq|blau}}
+* {{rhymes|stq|aːu̯}}
+
+===Adjective===
+{{stq-adj|+}}
+
+# [[blue]]
+
+===References===
+* {{R:stq:SW}}
+
+{{C|stq|Colors}}
+
+==West Frisian==
+
+===Etymology===
+{{dercat|fy|gem-pro|ine-pro|inh=1}}
+From {{inh|fy|ofs|blāu}}, from {{inh|fy|gmw-pro|*blāu}}.
+
+===Pronunciation===
+* {{IPA|fy|/blɔu̯/}}
+
+===Adjective===
+{{head|fy|adjective}}
+
+# {{topics|fy|Colors}} [[blue]]
+
+====Inflection====
+{{fy-infl-adj|blauwe}}
+
+====Further reading====
+* {{R:WFT|9098}}
+
+===Noun===
+{{fy-noun|n}}
+
+# [[blue]]
+
+====See also====
+{{table:colors/fy}}
+
+====Further reading====
+* {{R:WFT|9098}}

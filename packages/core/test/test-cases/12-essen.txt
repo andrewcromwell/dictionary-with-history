@@ -1,0 +1,122 @@
+{{also|Essen|èssen}}
+==Alemannic German==
+
+===Alternative forms===
+* {{alter|gsw|asse|assu|ässe|ässä}}
+
+===Etymology===
+From {{inh|gsw|goh|ezzan}}, from {{inh|gsw|gem-pro|*etaną}}. Cognate with {{cog|de|essen}}, {{cog|nl|eten}}, {{cog|en|eat}}, {{cog|sv|äta}}.
+
+===Verb===
+{{head|gsw|verb}}
+
+# {{lb|gsw|Issime}} to [[eat]]
+
+===References===
+* {{R:Patuzzi}}
+
+==Dutch==
+
+===Pronunciation===
+* {{audio|nl|Nl-essen.ogg|Audio}}
+
+===Noun===
+{{head|nl|noun form}}
+
+# {{plural of|nl|es}}
+
+==German==
+
+===Etymology===
+From {{inh|de|gmh|ezzen}}, from {{inh|de|goh|ezzan}}, from {{inh|de|gmw-pro|*etan}}, from {{inh|de|gem-pro|*etaną}}, from {{der|de|ine-pro|*h₁ed-}}.
+
+Cognate with {{cog|nds|eten}}, {{cog|nl|eten}}, {{cog|en|eat}}, {{cog|da|æde}}, {{cog|no|ete}}, {{cog|sv|äta}}, {{cog|yi|עסן}} and {{cog|got|𐌹𐍄𐌰𐌽}}. Non-Germanic cognates include {{cog|la|edō}}, {{cog|ru|есть}}, {{cog|gd|ith}}.
+
+===Pronunciation===
+* {{IPA|de|/ˈɛsən/|[ˈʔɛsn̩]}}
+* {{audio|de|De-essen.ogg|audio (Germany)}}
+* {{audio|de|De-essen2.ogg|audio (Germany)}}
+* {{audio|de|De-at-essen.ogg|audio (Austria)}}
+* {{rhymes|de|ɛsən}}
+
+===Verb===
+{{de-verb|essen<isst#aß,gegessen,äße>}}
+
+# {{lb|de|transitive}} to [[eat]]
+#: {{ux|de|Er '''isst''' gern Schokolade.|He likes '''eating''' chocolate.}}
+#: {{ux|de|Ich '''esse''' einen Apfel.|I am '''eating''' an apple.}}
+# {{lb|de|intransitive}} to [[eat]]; to [[dine]]
+#: {{ux|de|Wir haben noch nicht '''gegessen'''.|We have not '''eaten''' yet.}}
+#: {{ux|de|Sie haben immer vor 9 Uhr abends '''gegessen'''.|They always '''ate''' before 9 o’clock in the evening.}}
+
+====Usage notes====
+* In obsolete usage, the past participle was frequently {{l|de|gessen}}, which is still used in Austria.
+
+====Conjugation====
+{{de-conj|essen<isst#aß,gegessen,äße>}}
+
+====Synonyms====
+* {{l|de|fressen}} ''(for animals)''
+* {{l|de|genießen}}
+* {{l|de|speisen}}
+
+====Derived terms====
+* {{l|de|auswärts essen}} — to eat out
+* {{l|de|essbar}}
+* {{l|de|Esser}}
+* {{l|de|essgestört}}
+* {{l|de|zu Mittag essen}} — to have lunch
+* {{l|de|zu Abend essen}} — to have dinner, to have tea (Br.)
+* {{l|de|Ess-Brech-Sucht}}
+* {{l|de|Esslöffel|g=m}}
+* {{l|de|Essstäbchen|g=p}}
+* {{l|de|Essstörung}}
+* {{l|de|Esstisch|g=m}}
+* {{l|de|Esssucht}}
+* {{l|de|Esszimmer|g=n}}
+
+====Related terms====
+* {{l|de|Essen|g=n}}
+
+===Further reading===
+* {{R:DWDS}}
+* {{R:UniLeipzig}}
+* {{R:Duden}}
+* {{R:OpenThesaurus}}
+* {{pedia|lang=de}}
+
+{{C|de|Food and drink}}
+
+==Hungarian==
+
+===Alternative forms===
+* {{l|hu|essék}} {{q|archaic, today mostly in fixed phrases}}
+
+===Etymology===
+From the {{m|hu||es-}} stem of {{affix|hu|esik|-jen|nocat=y}}.
+
+===Pronunciation===
+* {{hu-IPA}}
+* {{hyphenation|hu|es|sen}}
+
+===Verb===
+{{head|hu|verb form}}
+
+# {{inflection of|hu|esik||3|s|subj|pres|indef}}
+
+==Norwegian Nynorsk==
+
+===Alternative forms===
+* {{l|nn|esset}}
+
+===Noun===
+{{head|nn|noun form|g=n|g2=m}}
+
+# {{inflection of|nn|ess||def|m|s}}
+
+==Swedish==
+
+===Noun===
+{{head|sv|noun form}}
+
+# {{noun form of|sv|ess||def|p}}

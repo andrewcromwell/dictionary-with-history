@@ -1,0 +1,47 @@
+{{also|kluft}}
+==German==
+
+===Etymology 1===
+{{root|de|ine-pro|*glewbʰ-}}
+From {{inh|de|goh|kluft}}, from {{inh|de|gem-pro|*kluftiz}}. Compare {{cog|nl|klucht}}, {{cog|en|cleft}}.
+
+====Pronunciation====
+* {{IPA|de|/klʊft/}}
+* {{audio|de|De-Kluft.ogg|Audio}}
+* {{rhymes|de|ʊft|s=1}}
+
+====Noun====
+{{de-noun|f,^e}}
+
+# [[cleft]], [[fissure]], [[joint]]
+# [[gap]], [[gulf]], [[rift]]
+#* {{quote-journal|de|year=2010|journal={{w|Der Spiegel}}|url=http://www.spiegel.de/spiegel/print/index-2010-33.html|issue=33/2010|page=70
+|passage=Die '''Kluft''' zwischen den Ärmsten und der Spitze der Gesellschaft hat sich dramatisch geöffnet.|t=The gap between the poorest and the top of society has widened dramatically.}}
+
+=====Declension=====
+{{de-ndecl|f,^e}}
+
+===Etymology 2===
+
+====Noun====
+{{de-noun|f,en}}
+
+# [[uniform]], [[outfit]], [[suit]], [[garb]], [[attire]] used for a specific activity
+
+=====Declension=====
+{{de-ndecl|f,en}}
+
+===Further reading===
+* {{R:DWDS}}
+
+==Plautdietsch==
+
+===Etymology===
+From {{inh|pdt|gml|kluft}}, from {{inh|pdt|osx|*kluft}}, from {{inh|pdt|gem-pro|*kluftiz}}.
+
+===Noun===
+{{head|pdt|noun|g=f|plural|Klufte}}
+
+# [[ravine]], [[abyss]], [[chasm]]
+
+[[Category:Plautdietsch 1-syllable words]]

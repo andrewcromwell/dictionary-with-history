@@ -1,0 +1,377 @@
+{{also|ACH|aćh|-ach|ách}}
+==Translingual==
+
+===Symbol===
+{{mul-symbol}}
+
+# {{ISO 639|2&3}}
+
+==English==
+
+===Etymology 1===
+From {{inh|en|enm|ache}}, from {{der|en|fro|ache}}, from {{der|en|la|apium|t=parsley}}.
+
+====Alternative forms====
+* {{alter|en|ache}}
+
+====Pronunciation====
+* {{IPA|en|/æt͡ʃ/}}
+
+====Noun====
+{{en-noun}}
+
+# {{lb|en|obsolete}} Any of several species of plants, such as [[smallage]], wild [[celery]], [[parsley]].
+
+=====Derived terms=====
+* {{l|en|lovage}}
+* {{l|en|smallage}}
+
+===Etymology 2===
+
+====Pronunciation====
+* {{IPA|en|/æx/|/ɑx/|/əx/}}
+
+====Interjection====
+{{en-intj}}
+
+# {{n-g|An expression of [[annoyance]].}}
+#* {{quote-book|1=en|year=1958|year_published=1972|author=Anthony Burgess|authorlink=Anthony Burgess|title=The Enemy in the Blanket|series=The Malayan Trilogy|page=|passage="'''Ach'''." Auntie frowned hugely. "That is all nonsense."}}
+# {{n-g|An expression of [[woe]] or [[regret]].}}
+# {{alt form|en|och}}
+
+===Anagrams===
+* {{anagrams|en|a=ach|-cha|CAH|CHA|Cha|HAC|HCA|cah|cha}}
+
+[[Category:English terms with /x/]]
+[[Category:English three-letter words]]
+[[Category:en:Celery family plants]]
+
+==Central Franconian==
+
+===Alternative forms===
+* {{alter|gmw-cfr|aacht||Moselle Franconian}}
+* {{alter|gmw-cfr|aach||Ripuarian}}
+
+===Etymology===
+From {{inh|gmw-cfr|gmh|ahte}}, from {{inh|gmw-cfr|goh|ahto}}, from {{inh|gmw-cfr|gmw-pro|*ahtō}}, from {{inh|gmw-cfr|gem-pro|*ahtōu}}, from {{inh|gmw-cfr|ine-pro|*oḱtṓw}}.
+
+===Pronunciation===
+* {{IPA|gmw-cfr|/ɑx/}}
+
+===Numeral===
+{{head|gmw-cfr|numeral}}
+
+# {{lb|gmw-cfr|Limburgan-Ripuarian Transitional Dialects}} [[eight]] {{gloss|numerical value represented by the Arabic numeral 8; or ''describing a set with eight elements''}}
+
+====Derived terms====
+* {{l|gmw-cfr|Ach}}
+* {{l|gmw-cfr|achmoal}}
+
+====Related terms====
+* {{l|gmw-cfr|achtsieg}}
+* {{l|gmw-cfr|achtsing}}
+
+===Further reading===
+* {{R:gmw-cfr:DNKD}}
+
+==Chuukese==
+
+===Determiner===
+{{head|chk|determiner}}
+
+# First-person plural inclusive general possessive; [[our]] (''inclusive'')
+
+====Related terms====
+{{chk-possessive determiners}}
+
+==Cimbrian==
+
+===Alternative forms===
+* {{alter|cim|òich||plural ''you'' only}}
+
+===Etymology===
+{{rfe|cim}}
+
+===Pronoun===
+{{head|cim|pronoun form}} <!--/ax/-->
+
+# {{lb|cim|7}} {{inflection of|cim|iart||acc}}: [[you]] {{gloss|plural; polite singular}}
+
+===See also===
+{{cim-decl-personal pronouns}}
+
+===References===
+* {{R:Martalar1974}}
+
+==Dutch==
+
+===Pronunciation===
+* {{IPA|nl|/ɑx/}}
+* {{audio|nl|Nl-ach.ogg|Audio}}
+* {{hyphenation|nl|ach}}
+* {{rhymes|nl|ɑx|s=1}}
+
+===Interjection===
+{{head|nl|interjection}}
+
+# [[oh]], {{non-gloss definition|expresses compassion, surprise and dismay}}
+
+====Descendants====
+* {{desc|af|ag}}
+* {{desc|pap|ag|bor=1}}
+
+==Esperanto==
+
+===Interjection===
+{{head|eo|interjection}}
+
+# {{eo-spel}}
+
+==German==
+
+===Etymology===
+From {{inh|de|gmh|ach}}, from {{inh|de|goh|ah}}.
+
+===Pronunciation===
+* {{IPA|de|/ax/}}
+* {{audio|de|De-ach.ogg|Audio}}
+* {{rhymes|de|ax|s=1}}
+
+===Interjection===
+{{head|de|interjection}}
+
+# [[oh]], [[alas]] {{gloss|expressing surprise, sorrow, or understanding}}
+#* {{RQ:Goethe Faust|scene=Vor dem Thor|passage=Zwey Seelen wohnen, '''ach!''' in meiner Brust, / Die eine will sich von der andern trennen;|t=Two souls, '''alas!''' reside within my breast, / And each withdraws from, and repels, its brother.|translator=Bayard Taylor|translation_year=1870}}
+# [[oh]] {{gloss|preceding an offhand or annoyed remark}}
+# [[oh]] {{gloss|preceding an invocation or address, but rarely a solemn one}}
+
+====Derived terms====
+{{der4
+|de|ach du liebe Güte
+|ach du lieber Gott
+|ach je
+|ächzen
+}}
+
+====Descendants====
+* {{desc|da|ah}}
+** {{desc|nb|ah|a}}
+* {{desc|yi|אַך}}
+
+===Further reading===
+* {{R:Duden}}
+* {{R:Kluge 1891|ach}}
+* {{R:DWDS}}
+
+==Irish==
+
+===Pronunciation===
+* {{a|Munster|Aran}} {{IPA|ga|/ɑx/}}
+* {{a|Connemara|Mayo|Ulster}} {{IPA|ga|/ax/}}
+
+===Etymology 1===
+From {{inh|ga|sga|acht|t=but, except}}, from {{inh|ga|cel-pro|*ektos}}, from {{inh|ga|ine-pro|*h₁eǵʰs}}.
+
+====Alternative forms====
+* {{alter|ga|acht||obsolete}}
+
+====Conjunction====
+{{head|ga|conjunction}}
+
+# [[but]]
+
+====Preposition====
+{{ga-prep|n|-}}
+
+# [[except]], [[but]]
+
+=====Derived terms=====
+* {{l|ga|ach oiread|t=as well}} {{qualifier|after a negative}}
+
+====Adverb====
+{{head|ga|adverb}}
+
+# [[but]], [[only]], [[merely]]
+
+===Etymology 2===
+{{onomatopoeic|ga}}.
+
+====Alternative forms====
+* {{alter|ga|ách}}
+
+====Interjection====
+{{head|ga|interjection|head=ach!}}
+
+# [[ah]]! [[och]]! [[ugh]]!
+
+===Further reading===
+* {{R:ga:Ó Dónaill}}
+* {{R:DIL|200|head=acht}}
+* {{R:ga:EID}}
+* {{R:ga:NEID}}
+
+==Middle Low German==
+
+===Pronunciation===
+* {{IPA|gml|/ɑx/|[ax]|[ɑχ]}}
+
+===Interjection===
+{{head|gml|interjection}}
+
+# [[oh]] {{gloss|an expression of grievance or displeasure}}
+
+==North Frisian==
+
+===Etymology===
+From {{inh|frr|ofs|achta}}. Compare {{cog|fy|acht}}.
+
+===Numeral===
+{{head|frr|numeral|cat2=cardinal numbers}}
+
+# {{lb|frr|Helgoland}} {{l|en|eight}}
+
+==Old Polish==
+
+===Etymology===
+{{inh+|zlw-opl|sla-pro|*axъ}}, ultimately a {{onomatopoeic|zlw-opl|title=natural expression}}. {{etydate|14th century}}.
+
+===Interjection===
+{{head|zlw-opl|interjection}}
+
+# [[ah]]! {{gl|expresses surprise}}
+
+====Descendants====
+* {{desc|pl|ach}}
+
+===References===
+* {{R:zlw-opl:SPJSP}}
+
+==Polish==
+
+===Etymology===
+{{inh+|pl|zlw-opl|ach}}, from {{inh|pl|sla-pro|*axъ}}, ultimately a {{onomatopoeic|pl|title=natural expression}}. {{etydate|14th century|ref={{R:zlw-opl:SSP1953|ach|15|1}}}}
+
+===Pronunciation===
+{{pl-p|a=Pl-ach.ogg|mp=*ach|mp2=*åch}}
+
+===Interjection===
+{{head|pl|interjection}}
+
+# [[ah]]! {{gl|expresses surprise}}
+#: {{syn|pl|och|ojej|ależ}}
+
+====Derived terms====
+{{col-auto|pl|title=adjective|ach i och}}
+{{col-auto|pl|title=interjections|achcie<q:Middle Polish>|achcież<q:Middle Polish>}}
+{{col-auto|pl|title=noun|achy i ochy}}
+{{pl-derived verbs|achać/achnąć|impf_first=1}}
+
+===Trivia===
+{{pl-freq 1990|0|0|0|10|44|54|1186|1|1}}
+
+===References===
+{{reflist}}
+
+===Further reading===
+* {{R:pl:WSJP}}
+* {{R:pl:PWN}}
+* {{R:pl:SXVI|ach, ah|5185}}
+* {{R:pl:SXVII|ACH|2004|KS|08.06.2022}}
+* {{R:pl:SJP1807||volume=1|pages=3-4}}
+* {{R:pl:SJP1861}}
+* {{R:pl:SJP1900||6|1}}
+
+==Scots==
+
+===Etymology===
+In imitation of a cry.
+
+===Pronunciation===
+* {{IPA|sco|/ɑx/}}
+
+===Interjection===
+{{sco-interj}}
+
+# An [[exclamation]] of [[impatience]], [[disappointment]], [[contempt]], [[remonstrance]].
+# expression of [[satisfaction]] or [[pleasure]].
+
+===References===
+* {{R:DSL|pos=int}}
+
+==Scottish Gaelic==
+
+===Etymology 1===
+From {{inh|gd|sga|acht||but, except}}, from {{inh|gd|cel-pro|*ektos}}, from {{inh|gd|ine-pro|*eghs}}.
+
+====Conjunction====
+{{head|gd|conjunction}}
+
+# [[but]]
+#: {{ux|gd|Thèid mise '''ach''' cha tèid thusa.|inline=1|I'll go '''but''' you won't [go].}}
+# [[except]], [[only]]
+#: {{ux|gd|Cha robh ann '''ach''' trì daoine.|inline=1|There were '''only''' three people (literally "there was not there but/except for three people").}}
+
+===Etymology 2===
+Shortened form of {{m|gd|feuch}}.
+
+====Conjunction====
+{{head|gd|conjunction}}
+
+# [[so that]]
+#: {{ux|gd|Dh'aontaich e '''ach''' am biodh adhartas air choireigin ann.|inline=1|He agreed '''so that''' there would be some progress.}}
+
+===References===
+* {{R:DIL|200|head=acht}}
+
+==Temascaltepec Nahuatl==
+
+===Adverb===
+{{head|nhv|adverb}}
+
+# [[maybe]]
+
+==Welsh==
+
+===Etymology 1===
+From {{inh|cy|cel-pro|*akkā}}, from {{inh|cy|ine-pro|*h₂ekkeh₂}} (compare {{cog|la|Acca|Acca (Larentia)}}, a Roman goddess, Ancient Greek {{m|grc|Ἀκκώ||nurse of Demeter}}, Sanskrit {{m|sa|अक्का||mother}}).
+
+====Pronunciation====
+* {{IPA|cy|/aːχ/}}
+* {{rhymes|cy|aːχ}}
+
+====Noun====
+{{cy-noun|f|achau|pl2=achoedd}}
+
+# [[kinship]]
+# [[pedigree]], [[ancestry]]
+# {{qualifier|plural}} [[lineage]]
+# {{qualifier|plural}} [[genealogy]], family [[roots]]
+
+=====Derived terms=====
+* {{l|cy|achres||genealogical table}}
+* {{l|cy|achydd||genealogist}}
+* {{l|cy|achyddiaeth||genealogy}}
+* {{l|cy|achyddol||genealogical}}
+* {{l|cy|ers achau||for ages}}
+
+===Etymology 2===
+
+====Alternative forms====
+{{alter|cy|och|ych}}
+
+====Pronunciation====
+* {{IPA|cy|/aχ/}}
+
+====Interjection====
+{{head|cy|interjection}}
+
+# [[yuck]]
+
+=====Derived terms=====
+{{l|cy|ach-y-fi}}
+
+===Mutation===
+{{cy-mut}}
+
+===References===
+* {{R:cy:GPC}}

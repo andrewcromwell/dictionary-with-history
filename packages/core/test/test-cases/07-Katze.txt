@@ -1,0 +1,126 @@
+==German==
+[[Image:Cat03.jpg|thumb|Eine '''Katze'''.]]
+
+===Alternative forms===
+* {{alter|de|Katz||chiefly in idioms}}
+* {{alter|de|Katz'}}
+
+===Etymology===
+From {{inh|de|gmh|katze}}, {{inh|de|goh|kazza}}, from {{inh|de|gmw-pro|*kattā}}, from {{der|de|LL.|catta}}, feminine of {{m|la|cattus}}. Akin to {{cog|ang|catt||cat}}.
+
+===Pronunciation===
+* {{IPA|de|/ˈkatsə/}}<!--|/ˈkɑtsə/--> {{a|most of Germany}}
+* {{IPA|de|/ˈkɑtːsə/}} {{a|Austro-Bavarian, Switzerland, regional Germany}}
+* {{audio|de|De-Katze.ogg|Audio}}
+* {{audio|de|De-Katze2.ogg|Audio}}
+* {{audio|de|De-at-Katze.ogg|Audio (Austria)}}
+* {{rhymes|de|atsə|s=2}}
+* {{hyph|de|Kat|ze}}
+
+===Noun===
+{{de-noun|f|dim=^chen,^lein|f=!weibliche Katze,^in,Katerin|m=!männliche Katze,Kater}}
+
+# [[house cat]], {{m|mul|Felis silvestris catus}}
+#: {{syn|de|Hauskatze}}
+# {{lb|de|specifically}} female [[house cat]]
+#: {{syn|de|Kätzin|q=uncommon}}
+# [[cat]] {{gloss|any member of the genus {{m|mul|Felis}}}}
+# {{lb|de|constellation|historic}} the obsolete constellation [[Felis]]
+
+====Usage notes====
+{{m|de|Katze}} is the common term to refer to a cat (both male and female ones). The derived form {{m|de|Kätzin}} is mostly restricted to poetic language and technical language.
+
+====Declension====
+{{de-ndecl|f}}
+
+====Antonyms====
+{{sense|female cat}}
+* {{l|de|Kater||male cat}}
+
+====Hypernyms====
+{{sense|cat}}
+* {{l|de|Säugetier}}
+
+====Hyponyms====
+{{sense|any cat}}
+* {{l|de|Großkatze||member of Pantherinae}}
+* {{l|de|Kleinkatze}}
+* {{l|de|Kater||male cat}}
+* {{l|de|Käterin||female cat}} {{q|Austrian, rare}}
+* {{l|de|Kätzin||female cat}}
+
+* {{l|de|Perserkatze}}, {{l|de|Perser|g=m}}
+
+====Derived terms====
+{{der3|de
+|die Katze aus dem Sack lassen
+|Bengalkatze
+|Borneo-Goldkatze
+|Cheshire-Katze
+|Eichkatze
+|Fischkatze
+|Flachkopfkatze
+|Graukatze
+|Grinsekatze
+|Hauskatze
+|Havana-Katze
+|ist die Katze aus dem Haus, tanzen die Mäuse auf dem Tisch
+|Katzenfreund
+|Katzenfutter
+|Katzengold
+|katzenhaft
+|Katzenjammer
+|Katzenjunges
+|Katzenklappe
+|Katzenklo
+|Katzenminze
+|Katzenrasse
+|Katzensprung
+|Katzenstreu
+|Katzenauge
+|Katzentür
+|Katzenwelpe
+|Katzenzunge
+|Katz-und-Maus-Spiel
+|Kleinfleckkatze
+|Langschwanzkatze
+|Marmorkatze
+|Meerkatze
+|Naschkatze
+|neunschwänzige Katze
+|Pampaskatze
+|Perserkatze
+|Rohrkatze
+|Rostkatze
+|Sandkatze
+|Schrödingers Katze
+|Schwarzfußkatze
+|Siamkatze
+|Stinkkatze
+|Waldkatze
+|Wildkatze
+}}
+
+===Further reading===
+* {{R:Duden}}
+* {{R:DWDS}}
+* {{R:Kluge 1891}}
+
+{{C|de|Cats}}
+
+==Hunsrik==
+
+===Pronunciation===
+* {{IPA|hrx|/ˈkʰat͡sə/}}
+
+===Noun===
+{{head|hrx|noun plural form|g=f}}
+
+# {{plural of|hrx|Katz}}
+
+==Pennsylvania German==
+
+===Noun===
+{{head|pdc|noun form}}
+
+# {{plural of|pdc|Katz}}

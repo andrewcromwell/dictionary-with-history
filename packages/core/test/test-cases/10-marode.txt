@@ -1,0 +1,34 @@
+==German==
+
+===Etymology===
+{{bor+|de|fr|maraud}}.
+
+===Pronunciation===
+* {{IPA|de|/maˈʁoːdə/}}
+* {{audio|de|De-marode.ogg|Audio}}
+
+===Adjective===
+{{de-adj|comp}}
+
+# {{lb|de|dated|of a person}} [[ailing]], [[weak]]
+#: {{syn|de|erschöpft}}
+#* {{RQ:Mann Buddenbrooks|page=324|passage=»Ei, ei, Tonychen, das ist nicht recht; wirst doch in Schwartau nicht '''marode''' sein wollen? Trink sieben Schluck Wasser, leg' dich rechts und zähl' bis tausend …«}}
+# [[ramshackle]], [[run-down]], [[scruffy]]
+#: {{syn|de|desolat|heruntergekommen|heruntergewirtschaftet|kaputt}}
+#: {{uxi|de|ein '''marode''' Firma}}
+#* {{quote-journal|de|author=Florian Gathmann|title=Krisentreffen mit Finanzminister Lindner: Union und Ampel rangeln um die Bundeswehrmilliarden|work=Der Spiegel|date=2022-03-22|url=https://www.spiegel.de/politik/deutschland/bundeswehr-cdu-csu-wollen-100-milliarden-sondervermoegen-nur-unter-bedingungen-zustimmen-a-15f024cd-69db-41bd-8fab-a9cbd3bca9f2|issn=2195-1349|author2=Matthias Gebauer|passage=Mit einem gigantischen Sonderbudget von 100 Milliarden Euro will Kanzler Scholz die '''marode''' Bundeswehr aufrüsten.}}
+
+====Declension====
+{{de-adecl|comp}}
+
+====Related terms====
+* {{l|de|marodieren}}
+* {{l|de|Marodeur}}
+
+====Descendants====
+* {{desc|cs|marod|bor=1}}
+* {{desc|pl|maruda|bor=1}}
+
+===Further reading===
+* {{R:Duden}}
+* {{R:DWDS}}

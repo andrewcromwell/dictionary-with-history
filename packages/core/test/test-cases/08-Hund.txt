@@ -1,0 +1,269 @@
+{{also|hund|hund-}}
+==Alemannic German==
+
+===Alternative forms===
+* {{alter|gsw|hun|hund|hunn|hònn||Walser}}
+
+===Etymology===
+{{dercat|gsw|gmw-pro|gem-pro|ine-pro|inh=3}}
+From {{inh|gsw|gmh|hunt}}, from {{inh|gsw|goh|hunt}}. Cognate with {{cog|de|Hund}}, {{cog|nl|hond}}, {{cog|en|hound}}, {{cog|is|hundur}}.
+
+===Noun===
+{{head|gsw|noun|g=m}}
+
+# {{lb|gsw|Uri}} [[dog]]
+
+===References===
+* {{R:Urseren}}
+
+{{topics|gsw|Dogs}}
+
+==German==
+[[Image:YellowLabradorLooking.jpg|thumb|Ein '''Hund'''.]]
+
+===Etymology===
+{{dercat|de|gem-pro|ine-pro|inh=2}}
+From {{inh|de|gmh|hunt}}, from {{inh|de|goh|hunt}}, from {{inh|de|gmw-pro|*hund}}.
+
+{{rel-top|Cognates:}}
+Cognates include {{cog|nl|hond}}, {{cog|en|hound}}, {{cog|da|hund}}, {{cog|is|hundur}}, and {{cog|got|𐌷𐌿𐌽𐌳𐍃}}.
+{{rel-bottom}}
+
+===Pronunciation===
+* {{IPA|de|/hʊnt/}}
+* {{rhymes|de|ʊnt|s=1}}
+* {{audio|de|De-at-Hund.ogg|Audio (Austria)}}
+* {{audio|de|De-Hund.ogg|Audio}}
+* {{homophones|de|Hunt}}
+
+===Noun===
+{{de-noun|m,es:s,e:^e[regionally]|dim=^chen,^lein,chen|m=Rüde[for the animal]|f=Hündin[for the animal],Petze[for the animal],Zaupe[for the animal],Zibbe[for the animal]}}
+
+# [[dog]], [[hound]]
+#* {{quote-book|de|year=1929|author={{w|Kurt Tucholsky}}|title=[[s:de:Das Lächeln der Mona Lisa (Sammelband)|Das Lächeln der Mona Lisa (Sammelband)]]|publisher=[[w:Rowohlt|Ernst Rowohlt Verlag]]|page=138
+|passage=Ein '''Hund''' bellt, wenn er mit den Sinnen etwas wahrgenommen hat; daraufhin, weil ihn sein Bellen erschreckt und aufregt, und des weiteren, weil sich das wahrgenommene Objekt um ihn kümmert, nicht um ihn kümmert oder davonläuft.|t=A dog barks when he has perceived something with the senses; thereupon, because his barking scares and upsets him, and furthermore, because the perceived object looks after him, does not look after him, or runs away.}}
+#* '''1995''', Hans Räber, ''Enzyklopädie der Rassehunde. Band 2'', Kosmos, pp. 426 and 805:
+#*: {{quote|de|Die Schnauze ist namentlich bei dem '''Hunde''' (Rüde) oft stark schwarz verbrämt; die alten Hunde haben starke Hautfalten am Kopfe.}}
+#*: {{quote|de|Wehe dann dem '''Hunde''', der ihn tollkühn angreift[.]}}
+#* '''2012''', Hans Günter Wolff, revised by Barbara Rakow, ''Unsere Hunde . gesund durch Homöopathie: Heilfibel eines Tierarztes. 15., aktualisierte Auflage'', Sonntag (part of the ''Thieme Verlagsgruppe''):
+#*: {{quote|de|Boxer und Spitze sind dieser Krankheit vornehmlich ausgesetzt, die, im höheren Alter vielfach mit einer Bronchitis gepaart, dem '''Hunde''' und seiner Umgebung das Leben schwer machen. (section: ''2.2.2 Kehlkopfkatarrh'')}}
+#*: {{quote|de|Für ca. 3 Wochen werden dem '''Hunde''' 3-mal täglich je 1 Tablette von jedem einzelnen Mittel gegeben: [...] (section: ''4.1.1 Mundgeruch'')}}
+#* '''2014''' (the text of this edition follows a book from '''1975'''), Arthur und Albert Schott, ''Rumänische Volkserzählungen aus dem Banat'', edited by Karl-Maria Guth, Hofenberg, p.69:
+#*: {{quote|de|Der Schäfer glaubte zwar dem '''Hunde''', doch wollte er sich von der Treulosigkeit der andern überzeugen und wartete, bis die '''Hunde''' in der Nacht richtig den Wölfen das verabredete Zeichen gaben.}}
+# {{lb|de|pejorative}} [[scoundrel]]; [[dog]] (mean or morally reprehensible person)
+#: {{ux|de|ein gemeiner '''Hund'''|a mean '''dog'''|inline=1}}
+# A board with [[caster]]s used to transport heavy objects.
+
+====Usage notes====
+* The normal plural is {{m|de|Hunde}}. The plural {{m|de|Hünde}} is used to some degree regionally and in colloquial varieties, chiefly in southern and western Germany, Austria and Switzerland. Compare Luxembourgish {{m|lb|Hond}} (plural: {{m|lb|Hënn}}).
+* By analogy with the plural, the diminutive is sometimes formed without umlaut, yielding {{m|de|Hundchen}} and {{m|de|Hundlein}}. Regionally, {{m|de|Hündelein}}, {{m|de|Hundel}}, {{m|de|Hunderl}}, or (rarely) {{m|de|Hundelein}} or {{m|de|Hundilein}} may be heard.
+* To denote a male/female dog, also {{m|de|[[männlich]]er/[[weiblich]]er Hund}} and {{m|de|[[Hundemännchen]]/[[Hundeweibchen]]}} can be used.
+
+====Declension====
+{{de-ndecl|m,(e)s,e:^e[nonstandard]}}
+
+====Synonyms====
+{{sense|dog}}
+* {{l|de|Wauwau}} {{qualifier|childish}}
+* {{l|de|Köter}}, {{l|de|Töle}} {{qualifier|derogatory}}
+
+====Hyponyms====
+{{sense|dog}}
+{{col4|de
+|Boxer
+|Bracke
+|Bulldogge
+|Dachshund
+|Dackel
+|Dobermann
+|Hundemännchen
+|Hundeweibchen
+|Hündin
+|Hütehund
+|Labrador
+|Pinscher
+|Rüde
+|Sennenhund
+|Spürhund
+|Suchhund
+|Spitz
+|Vorstehhund
+|Wachtelhund
+}}
+
+====Derived terms====
+{{der4|de
+|Apportierhund
+|auf den Hund kommen
+|da liegt der Hund begraben
+|Diensthund|Drogenhund
+|Flughund
+|Hirtenhund
+|Hofhund
+|hundeartig
+|Hundefreund
+|Hundebesitzer
+|Hundeblick
+|Hunde, die bellen, beißen nicht
+|Hunde, die bellen, beissen nicht
+|Hundefänger
+|Hundefrisör
+|Hundeführer
+|Hundefutter
+|Hundegebell
+|Hundegeschirr
+|Hundegesetz
+|hundhaft
+|Hundehalsband
+|Hundehalter
+|Hundehimmel
+|Hundehütte
+|hundekalt
+|Hundeleben
+|Hundeleine
+|Hundemännchen
+|hundemüde
+|Hunderasse
+|Hundeschau
+|Hundeschule
+|Hundesohn
+|Hundestall
+|Hundeweibchen
+|Hundezwinger
+|hündisch
+|hundsgemein
+|Hundsstern
+|Jagdhund
+|Kampfhund
+|Labradorhund
+|Nachbarshund
+|Polizeihund
+|Präriehund
+|Schäferhund
+|Schlittenhund
+|Schoßhund
+|Schosshund
+|Schweinehund
+|Spürhund
+|Suchhund
+|vor die Hunde gehen
+|Wachhund
+|Warnung vor dem Hunde
+|Wasserhund
+|Wildhund
+|Windhund
+|Wüstenhund
+|Zwingerhund
+}}
+
+====Related terms====
+{{rel4|de|title=Derived from {{m|de||Hund}} or with {{m|de|-in}}
+|Hundefreundin
+|Hundebesitzerin
+|Hundefängerin
+|Hundefrisörin
+|Hundeführerin
+|Hundehalterin
+}}
+
+===See also===
+{{list:canids/de}}
+
+===Further reading===
+* {{R:DWDS}}
+* {{R:Duden}}
+* {{R:Kluge 1891}}
+* {{R:wp|de}}
+
+{{C|de|Dogs}}
+
+==German Low German==
+{{wikipedia|lang=nds}}
+
+===Alternative forms===
+* {{alter|nds-de|Hunt}} {{q|Noord-Barnimsch, Waldeggsch}}
+
+===Etymology===
+From {{inh|nds-de|gml|hunt}} and {{inh|nds-de|osx|hund}}, from {{inh|nds-de|gmw-pro|*hund}}, from {{inh|nds-de|gem-pro|*hundaz}}.
+
+===Noun===
+{{nds-de-noun|g=m|pl1=Hunnen|pl2=Hunn}}
+
+# [[dog]]
+# [[mining car]]
+
+====Hyponyms====
+* {{l|nds-de|Rööd}}
+* {{l|nds-de|Tääv}}, {{l|nds-de|Teev}}
+* {{l|nds-de|Tiff}}
+
+====Derived terms====
+{{der4|nds-de
+|Arbeitshund
+|falsche Hund
+|Groot Hund
+|Hundssteern
+|Hunnenhütt
+|Hunnenleid
+|Hunnenlien
+|Hunnenrass
+|Hunnhütt
+|Huushund
+|Lütt Hund
+|op 'n Hund kamen
+|Scheperhund
+|Scheperhundmaand
+|vör de Hunnen gahn
+|Wildhund
+}}
+
+===See also===
+{{col4|nds-de
+|Beest
+|Deert
+|Deertenkunn
+|Huusdeert
+|Roofdeert
+|Söögdeert
+|Veerföter
+|[[Veerföters]] ([[Tetrapoda]])
+}}
+
+===References===
+* {{R:SASS-6}}
+
+[[Category:nds-de:Dogs]]
+
+==Hunsrik==
+[[File:Yacare De El Siledin.JPG|thumb|En Hund]]
+
+===Alternative forms===
+* {{alter|hrx|hunt||Wiesemann spelling system}}
+
+===Etymology===
+{{dercat|hrx|gmw-pro|gem-pro|ine-pro|inh=3}}
+From {{inh|hrx|gmh|-}} and {{inh|hrx|goh|hunt}}.
+
+===Pronunciation===
+* {{IPA|hrx|/hunt/}}
+
+===Noun===
+{{head|hrx|noun|g=m|plural|Hunn|diminutive|Hundche}}
+
+# [[dog]]
+#: {{ux|hrx|Unser '''Hund''' is krank.|Our '''dog''' is sick.}}
+#: {{ux|hrx|Loss de '''Hund''' nausgehn.|Let the '''dog''' go out.}}
+#: {{ux|hrx|De '''Hund''' hod das Haus foll Spore geloss.|The '''dog''' left the house full of footprints.}}
+
+===Further reading===
+* [https://hunsriqueanoriograndense.wordpress.com/dicionario-werterbuch/ Online Hunsrik Dictionary]
+
+==Pennsylvania German==
+
+===Etymology===
+From {{inh|pdc|gmh|-}} and {{inh|pdc|goh|hunt}}. Compare {{cog|de|Hund}}, {{cog|nl|hond}}, {{cog|en|hound}}.
+
+===Noun===
+{{head|pdc|noun|g=m|plural|Hund|diminutive|Hundli}}
+
+# [[dog]]

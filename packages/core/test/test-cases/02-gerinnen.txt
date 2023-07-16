@@ -1,0 +1,25 @@
+==German==
+
+===Etymology===
+{{prefix|de|ge|rinnen}}
+
+===Pronunciation===
+* {{audio|de|De-gerinnen.ogg|Audio}}
+* {{audio|de|De-gerinnen2.ogg|Audio}}
+* {{IPA|de|/ɡəˈʁɪnən/}}
+
+===Verb===
+{{de-verb|gerinnen<gerann,geronnen,geränne.sein>}}
+
+# to [[coagulate]] (become congealed)
+#: {{ux|de|Die Milch war leider '''geronnen'''.|Unfortunately the milk had '''curdled'''.}}
+====Conjugation====
+{{de-conj|gerinnen<gerann,geronnen,geränne.sein>}}
+
+====Derived terms====
+* {{l|de|Gerinnsel}}
+* {{l|de|Gerinnung}}
+
+===Further reading===
+* {{R:Duden}}
+* {{R:DWDS}}

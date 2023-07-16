@@ -1,0 +1,16 @@
+==German==
+
+===Pronunciation===
+* {{audio|de|De-altklug.ogg|Audio}}
+
+===Adjective===
+{{de-adj}}
+
+# [[precocious]]
+
+====Declension====
+{{de-adecl}}
+
+===Further reading===
+* {{R:DWDS}}
+* {{R:UniLeipzig}}

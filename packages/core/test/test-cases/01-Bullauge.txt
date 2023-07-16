@@ -1,0 +1,21 @@
+==German==
+
+===Etymology===
+{{partial calque|de|en|bullseye}}, in its now-obsolete nautical meaning.
+
+===Pronunciation===
+* {{IPA|de|/ˈbʊlˌ(ʔ)aʊ̯ɡə/}}
+* {{hyphenation|de|Bull|au|ge}}
+* {{audio|de|De-Bullauge.ogg}}
+
+===Noun===
+{{de-noun|n}}
+
+# [[porthole]]
+
+====Declension====
+{{de-ndecl|n}}
+
+===Further reading===
+* {{R:Duden}}
+* {{R:DWDS}}

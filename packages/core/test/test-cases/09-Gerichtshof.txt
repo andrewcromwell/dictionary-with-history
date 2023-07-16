@@ -1,0 +1,42 @@
+==German==
+
+===Pronunciation===
+* {{IPA|de|/ɡəˈʁɪçt͡sˌhoːf/}}
+* {{audio|de|De-Gerichtshof.ogg|Audio}}
+* {{hyphenation|de|Ge|richts|hof}}
+
+===Noun===
+{{de-noun|m,(e)s,^e}}
+
+# {{lb|de|legal}} [[law]] [[court]]; [[court of justice]]
+#: {{syn|de|GH}}
+
+====Declension====
+{{de-ndecl|m,(e)s,^e}}
+
+====Hypernyms====
+* {{l|de|Hof}}
+
+====Hyponyms====
+{{col4
+|de|Bundesgerichtshof
+|Dienstgerichtshof für Richter
+|Europäischer Gerichtshof für Menschenrechte
+|Gerichtshof der Europäischen Union
+|Interamerikanischer Gerichtshof für Menschenrechte
+|Internationaler Gerichtshof
+|Internationaler Gerichtshof
+|Oberster Gerichtshof
+|Sportgerichtshof
+|Strafgerichtshof
+|Verfassungsgerichtshof
+|Verwaltungsgerichtshof
+|Volksgerichtshof
+|Zentralamerikanischer Gerichtshof
+}}
+
+===Further reading===
+* {{R:DWDS}}
+* {{R:UniLeipzig}}
+* {{R:Duden}}
+* {{pedia|lang=de}}

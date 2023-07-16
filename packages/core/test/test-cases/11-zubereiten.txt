@@ -1,0 +1,29 @@
+==German==
+
+===Etymology===
+{{prefix|de|zu|bereiten}}
+
+===Pronunciation===
+* {{IPA|de|/ˈtsuːbəˌʁaɪ̯tn̩/|/ˈtsuːbəˌʁaɪ̯tən/}}
+* {{audio|de|De-zubereiten.ogg|Audio}}
+
+===Verb===
+{{de-verb|zu.bereiten}}
+
+# {{lb|de|cooking}} to [[prepare]]
+#* {{quote-journal|de|year=2014|journal=[[w:Der Spiegel|Der Spiegel]]|url=http://www.spiegel.de/spiegel/print/index-2014-21.html|issue=21/2014|page=62
+|passage=Aber erst in Beirut lernte sie, wie professionelles Kochen geht, die Logistik, das Timing, die Organisation, um mehrere Hundert Mahlzeiten '''zuzubereiten'''.|t=But only in Beirut did she learn how professional cooking works: the logistics, the timing, and the organization to prepare several hundred meals.}}
+
+====Conjugation====
+{{de-conj|zu.bereiten}}
+
+====Derived terms====
+* {{l|de|Zubereiten}}
+* {{l|de|Zubereiter}}
+* {{l|de|Zubereitung}}
+
+===Further reading===
+* {{R:DWDS}}
+* {{R:UniLeipzig}}
+* {{R:Duden}}
+* {{R:OpenThesaurus}}
