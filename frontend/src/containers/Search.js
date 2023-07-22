@@ -29,6 +29,8 @@ export default function Search() {
       const searchResponse = await postSearch(fields.word, fields.media);
       setIsSubmitted(true);
       setSearchResponse(searchResponse);
+      fields.word = "";
+      fields.media = "";
     } catch (e) {
       onError(e);
     }
@@ -140,8 +142,13 @@ export default function Search() {
   }
 
   return (
-    <div className="Search">
-      {isSubmitted ? renderSearchResponse() : renderSearchPage()}
+    <>
+    <div id="Search">
+      {renderSearchPage()}
     </div>
+    <div id="Results">
+      {isSubmitted ? renderSearchResponse() : <></>}
+    </div>
+    </>
   );
 }
