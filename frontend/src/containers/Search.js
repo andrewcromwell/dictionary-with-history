@@ -93,21 +93,26 @@ export default function Search() {
         </>
       );
     }
-    return searchResponse.definition.definitions.map(({ partOfSpeech, meanings }) => (
+    return (
       <>
-          <span className="fw-bold">{partOfSpeech.trim()}</span>
-          <br />
-          <ol>
-          {meanings.map(meaning => (
-            <li>
-            <span className="text-muted">
-            {meaning.trim()}
-            </span>
-            </li>
-          ))}
-          </ol>
+      <p class="h2">{fields.word}</p>
+        {searchResponse.definition.definitions.map(({ partOfSpeech, meanings }) => (
+          <>
+            <span className="fw-bold">{partOfSpeech.trim()}</span>
+            <br />
+            <ol>
+              {meanings.map(meaning => (
+                <li>
+                  <span className="text-muted">
+                  {meaning.trim()}
+                  </span>
+                </li>
+              ))}
+            </ol>
+          </>
+        ))}
       </>
-  ));
+    );
   }
   function renderSearchResponse() {
     const definitionDisplay = showDefinition(searchResponse.definition);
