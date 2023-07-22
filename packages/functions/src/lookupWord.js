@@ -74,7 +74,7 @@ async function getWiktionaryDefinition(word){
   const options = {
     hostname: 'en.wiktionary.org',
     port: 443,
-    path: '/w/index.php?action=raw&title=' + word,
+    path: '/w/index.php?action=raw&title=' + encodeURIComponent(word),
     method: 'GET'
   };
   const response = await makeRequest(options);
