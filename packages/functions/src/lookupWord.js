@@ -46,6 +46,7 @@ export const main = handler(async (event) => {
 
   const definition = await getWiktionaryDefinition(data.word);
   const response = {
+    word: data.word.trim(),
     lookupInfo: params.Item,
     definition: definition
   };

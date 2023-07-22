@@ -85,17 +85,17 @@ export default function Search() {
       );
   }
 
-  function showDefinition(definition) {
+  function showDefinition(word, definition) {
     if (definition.error){
       return (
         <>
-          <span className="text-muted">{fields.word} not found on Wiktionary</span>
+          <span className="text-muted">{word} not found on Wiktionary</span>
         </>
       );
     }
     return (
       <>
-      <p class="h2">{fields.word}</p>
+      <p class="h2">{word}</p>
         {searchResponse.definition.definitions.map(({ partOfSpeech, meanings }) => (
           <>
             <span className="fw-bold">{partOfSpeech.trim()}</span>
@@ -115,13 +115,13 @@ export default function Search() {
     );
   }
   function renderSearchResponse() {
-    const definitionDisplay = showDefinition(searchResponse.definition);
+    const definitionDisplay = showDefinition(searchResponse.word, searchResponse.definition);
     const searchHistory = searchResponse.lookupInfo;
     return (
         <div className="SearchHistory">
             {definitionDisplay}
             <ListGroup.Item action className="py-3 text-nowrap text-truncate">
-                <a href={"https://en.wiktionary.org/wiki/" + fields.word + "#German"} className="ms-2 fw-bold">Wiktionary</a>
+                <a href={"https://en.wiktionary.org/wiki/" + searchResponse.word + "#German"} className="ms-2 fw-bold">Wiktionary</a>
             </ListGroup.Item>
             <ListGroup.Item action className="py-3 text-nowrap text-truncate">
                 <span className="ms-2 fw-bold">You've searched this word {searchHistory.numberOfLookups} time(s)</span>
