@@ -6,7 +6,7 @@ import { parseWiktionaryDefinition } from "@dictionary-with-history/core/src/par
 export const main = handler(async (event) => {
   const data = JSON.parse(event.body);
   const userId = event.requestContext.authorizer.iam.cognitoIdentity.identityId;
-  const existingWordEntry = await getWordByUserID(userId, data.word);
+  const existingWordEntry = await getWordByUserID(userId, data.word.trim());
   var params;
   if (!existingWordEntry){
 
