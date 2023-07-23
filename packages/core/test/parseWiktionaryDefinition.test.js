@@ -484,3 +484,15 @@ test("Parse a noun with two separate etymologies", () => {
 
     expect(expectedResult).toEqual(parsed);
 });
+
+test("Parse a word with no German definition", () => {
+    const definition = content('./packages/core/test/test-cases/22-Kund.txt');
+
+    const parsed = parseWiktionaryDefinition(definition);
+
+    const expectedResult = {
+        error: "Couldn't retrieve definition. German definition doesn't exist."
+    };
+
+    expect(expectedResult).toEqual(parsed);
+});

@@ -91,7 +91,7 @@ export default function Search() {
     if (definition.error){
       return (
         <>
-          <span className="text-muted">{word} not found on Wiktionary</span>
+          <span className="text-muted">{definition.error}</span>
         </>
       );
     }

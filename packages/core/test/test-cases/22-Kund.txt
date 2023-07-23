@@ -1,0 +1,11 @@
+{{also|kund}}
+==Plautdietsch==
+===Etymology===
+Borrowed from, or closely related to, {{der|pdt|de|Kunde|t=client, patron}}, both ultimately from {{der|pdt|gmw-pro|*kunþō|t=acquaintance}}.
+
+===Noun===
+{{head|pdt|noun|g=f|plural|Kunde}}
+
+# [[client]]
+
+[[Category:Plautdietsch 1-syllable words]]

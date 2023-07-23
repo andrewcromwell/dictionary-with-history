@@ -5,7 +5,9 @@ export function parseWiktionaryDefinition(wikiDefinition) {
         return germanDefinitionParsed;
     }
 
-    return "";
+    return {
+        error: "Couldn't retrieve definition. German definition doesn't exist."
+    };
 }
 
 function getJustTheGermanDefinition(wikiDefinition) {
