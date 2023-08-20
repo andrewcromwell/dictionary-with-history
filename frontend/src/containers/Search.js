@@ -115,7 +115,7 @@ export default function Search() {
     }
     return (
       <>
-      <p class="h2">{word}</p>
+      <p className="h2">{word}</p>
         {searchResponse.definition.definitions.map(({ partOfSpeech, meanings, key }) => (
           <div key={key}>
             <span className="fw-bold">{partOfSpeech.trim()}</span>
