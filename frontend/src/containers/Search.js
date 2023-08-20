@@ -90,7 +90,6 @@ export default function Search() {
             </Form.Group>
             <div className="d-grid gap-2 mt-3">
                 <LoaderButton
-                    block
                     type="submit"
                     size="lg"
                     variant="primary"
