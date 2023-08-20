@@ -13,7 +13,6 @@ export default function Search() {
     media: "",
   });
   const [isLoading, setIsLoading] = useState(false);
-  const [isSubmitted, setIsSubmitted] = useState(false);
   const [searchResponse, setSearchResponse] = useState(null);
 
   function validateForm() {
@@ -27,7 +26,6 @@ export default function Search() {
 
     try {
       const searchResponse = await postSearch(fields.word, fields.media);
-      setIsSubmitted(true);
       addKeys(searchResponse);
       setSearchResponse(searchResponse);
       fields.word = "";
@@ -167,7 +165,7 @@ export default function Search() {
       {renderSearchPage()}
     </div>
     <div id="Results">
-      {isSubmitted ? renderSearchResponse() : <></>}
+      {searchResponse ? renderSearchResponse() : <></>}
     </div>
     </>
   );
