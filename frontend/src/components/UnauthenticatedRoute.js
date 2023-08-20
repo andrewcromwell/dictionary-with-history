@@ -19,7 +19,7 @@ export default function UnauthenticatedRoute(props) {
   const { children } = props;
   const redirect = querystring("redirect");
 
-  if (isAuthenticated) {
+  if (isAuthenticated && redirect) {
     return <Navigate to={redirect || "/"} />;
   }
 
